@@ -1,5 +1,37 @@
-# Global-AQI-Socio-Economic-Dashboard
-Pollution vs Progress: Air Quality & Emissions DashboardThis interactive R Shiny application provides a comprehensive platform for exploring the intersection of global air quality, socio-economic factors, and industrial emissions. By uniting disparate data streams—city-level AQI, country-level development indicators, and UK-specific industrial data—it aims to provide actionable insights for policymakers, researchers, and the public.## Project OverviewThe dashboard is structured around two primary narrative tracks:Global Air Quality Analysis: Visualizes how pollutants are distributed geographically and explores correlations between air quality and factors like GDP per capita, population density, and energy access.UK Industrial Emissions: Traces historical trends and identifies the top-emitting sectors in the United Kingdom across several decades.## Key FeaturesInteractive World Map: A Leaflet-powered map allowing users to filter by city, country, and pollutant type (PM2.5, NO2, CO, Ozone).Dynamic Visualizations: Uses Plotly to generate responsive histograms, scatterplots, and line charts that update instantly based on user inputs.Narrative Discovery: Features a tabbed interface that follows Shneiderman’s mantra: "Overview first, zoom and filter, then details-on-demand".Customizable Theme: Includes a persistent dark-mode switch for better accessibility and user preference.## Technology StackThe application is built entirely within the R ecosystem:UI/Framework: shiny, shinyjs, htmltools.Data Manipulation: dplyr, tidyr.Visualization: leaflet (mapping), plotly (interactive charts), ggplot2 (static plotting).Styling: Custom CSS for light/dark mode variables and responsive layouts.## Setup and InstallationTo run this dashboard locally, ensure you have R and RStudio installed, then follow these steps:Clone the repository:Bashgit clone [your-repository-link]
-Install required packages:Rinstall.packages(c("shiny", "leaflet", "dplyr", "plotly", "ggplot2", "tidyr", "htmltools", "shinyjs"))
-Update Data Paths:The app.R file currently references local paths for the CSV datasets. Ensure the following files are in your working directory and update the read.csv() paths accordingly:wrangled_city_aqi.csvcleaned_worlddata.csvemissions1_tidy.csvRun the App:Rshiny::runApp()
-## Author & AcknowledgmentsAuthor: Stuti Baj (Master of Data Science, Monash University).Purpose: Developed as a Data Exploration and Visualization project.AI Disclosure: Generative AI was utilized for assistance with structural formatting and code refinement.
+Pollution vs Progress: Air Quality & Emissions Dashboard
+
+This interactive R Shiny application explores the relationship between global industrial activity and air quality. It provides a unified platform to analyze how economic progress intersects with environmental health through three integrated datasets: city-level AQI readings, global socio-economic indicators, and historical UK industrial emissions.
+
+Work Performed
+
+Integrated Multi-Source Data: Cleaned and joined city-level air quality data with country-level socio-economic metrics (e.g., GDP, population density, electricity access) to identify regional pollution drivers.
+
+Interactive Dashboard Architecture: Developed a dual-track narrative interface in R, enabling users to switch between global geographic analysis and UK-specific industrial trends.
+
+Custom UI/UX Design: Built a responsive interface featuring a persistent dark-mode toggle and interactive sidebar controls to manage complex data views without cognitive overload.
+
+Key Features
+
+Global Air Quality Analysis
+
+Interactive World Map: A Leaflet-based map visualizing city-level AQI categories with real-time filtering by country, gas type (PM2.5, NO2, CO, Ozone), and air quality band.
+
+Socio-Economic Correlations: Dynamic Plotly scatterplots and histograms that illustrate the relationship between AQI values and selected development indicators.
+
+UK Industrial Emissions Analysis
+
+Packed Bubble Charts: Visualizes emission volumes by industry, where bubble area encodes the magnitude of pollutants.
+
+Temporal Trend Lines: Tracks total emissions over several decades to highlight the long-term impact of policy and industrial changes.
+
+User Experience & Tools
+
+Dark Mode Toggle: A built-in switch to toggle between light and dark themes for better accessibility.
+
+Details-on-Demand: Comprehensive hover tooltips across all maps and charts providing precise numerical values.
+
+Smart Filtering: Multi-select options for countries and industries with built-in limiters to maintain visual clarity.
+
+Author: Stuti Baj
+
+Project: Data Exploration and Visualization
