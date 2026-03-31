@@ -1,0 +1,2959 @@
+year,pollutant,industry,emission_value
+1990,Benzene,"Agriculture, forestry and fishing",0.468
+1990,Benzene,"Arts, entertainment and recreation",0.142
+1990,Benzene,Construction,1.683
+1990,Benzene,Education,7.80E-02
+1990,Benzene,"Electricity, gas, steam and air conditioning supply",0.544
+1990,Benzene,Financial and insurance activities,5.10E-02
+1990,Benzene,Human health and social work activities,0.148
+1990,Benzene,Information and communication,0.316
+1990,Benzene,Manufacturing,7.156
+1990,Benzene,Mining and quarrying,0.835
+1990,Benzene,Other service activities,0.158
+1990,Benzene,"Professional, scientific and technical activities",0.574
+1990,Benzene,Public administration and defence; compulsory social security,1.148
+1990,Benzene,Real estate activities,0.136
+1990,Benzene,Transport and storage,4.351
+1990,Benzene,"Water supply; sewerage, waste management and remediation activities",1.321
+1990,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.809
+1991,Benzene,"Agriculture, forestry and fishing",0.471
+1991,Benzene,"Arts, entertainment and recreation",0.144
+1991,Benzene,Construction,1.659
+1991,Benzene,Education,0.08
+1991,Benzene,"Electricity, gas, steam and air conditioning supply",0.541
+1991,Benzene,Financial and insurance activities,5.10E-02
+1991,Benzene,Human health and social work activities,0.151
+1991,Benzene,Information and communication,0.32
+1991,Benzene,Manufacturing,7.323
+1991,Benzene,Mining and quarrying,0.815
+1991,Benzene,Other service activities,0.159
+1991,Benzene,"Professional, scientific and technical activities",0.58
+1991,Benzene,Public administration and defence; compulsory social security,1.167
+1991,Benzene,Real estate activities,0.136
+1991,Benzene,Transport and storage,4.624
+1991,Benzene,"Water supply; sewerage, waste management and remediation activities",1.32
+1991,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.809
+1992,Benzene,"Agriculture, forestry and fishing",0.466
+1992,Benzene,"Arts, entertainment and recreation",0.139
+1992,Benzene,Construction,1.558
+1992,Benzene,Education,7.90E-02
+1992,Benzene,"Electricity, gas, steam and air conditioning supply",0.532
+1992,Benzene,Financial and insurance activities,4.90E-02
+1992,Benzene,Human health and social work activities,0.147
+1992,Benzene,Information and communication,0.309
+1992,Benzene,Manufacturing,7.332
+1992,Benzene,Mining and quarrying,0.787
+1992,Benzene,Other service activities,0.152
+1992,Benzene,"Professional, scientific and technical activities",0.56
+1992,Benzene,Public administration and defence; compulsory social security,1.162
+1992,Benzene,Real estate activities,0.129
+1992,Benzene,Transport and storage,4.486
+1992,Benzene,"Water supply; sewerage, waste management and remediation activities",1.309
+1992,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.707
+1993,Benzene,"Agriculture, forestry and fishing",0.443
+1993,Benzene,"Arts, entertainment and recreation",0.134
+1993,Benzene,Construction,1.466
+1993,Benzene,Education,7.20E-02
+1993,Benzene,"Electricity, gas, steam and air conditioning supply",0.527
+1993,Benzene,Financial and insurance activities,4.70E-02
+1993,Benzene,Human health and social work activities,0.138
+1993,Benzene,Information and communication,0.292
+1993,Benzene,Manufacturing,7.122
+1993,Benzene,Mining and quarrying,0.882
+1993,Benzene,Other service activities,0.144
+1993,Benzene,"Professional, scientific and technical activities",0.53
+1993,Benzene,Public administration and defence; compulsory social security,1.139
+1993,Benzene,Real estate activities,0.121
+1993,Benzene,Transport and storage,4.27
+1993,Benzene,"Water supply; sewerage, waste management and remediation activities",1.32
+1993,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.568
+1994,Benzene,"Agriculture, forestry and fishing",0.431
+1994,Benzene,"Arts, entertainment and recreation",0.131
+1994,Benzene,Construction,1.411
+1994,Benzene,Education,7.00E-02
+1994,Benzene,"Electricity, gas, steam and air conditioning supply",0.531
+1994,Benzene,Financial and insurance activities,4.60E-02
+1994,Benzene,Human health and social work activities,0.137
+1994,Benzene,Information and communication,0.287
+1994,Benzene,Manufacturing,7.479
+1994,Benzene,Mining and quarrying,1.084
+1994,Benzene,Other service activities,0.14
+1994,Benzene,"Professional, scientific and technical activities",0.52
+1994,Benzene,Public administration and defence; compulsory social security,0.784
+1994,Benzene,Real estate activities,0.117
+1994,Benzene,Transport and storage,4.242
+1994,Benzene,"Water supply; sewerage, waste management and remediation activities",1.312
+1994,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.498
+1995,Benzene,"Agriculture, forestry and fishing",0.429
+1995,Benzene,"Arts, entertainment and recreation",0.127
+1995,Benzene,Construction,1.32
+1995,Benzene,Education,6.80E-02
+1995,Benzene,"Electricity, gas, steam and air conditioning supply",0.514
+1995,Benzene,Financial and insurance activities,4.40E-02
+1995,Benzene,Human health and social work activities,0.132
+1995,Benzene,Information and communication,0.274
+1995,Benzene,Manufacturing,7.33
+1995,Benzene,Mining and quarrying,1.004
+1995,Benzene,Other service activities,0.133
+1995,Benzene,"Professional, scientific and technical activities",0.5
+1995,Benzene,Public administration and defence; compulsory social security,0.622
+1995,Benzene,Real estate activities,0.111
+1995,Benzene,Transport and storage,4.266
+1995,Benzene,"Water supply; sewerage, waste management and remediation activities",1.296
+1995,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.366
+1996,Benzene,"Agriculture, forestry and fishing",0.428
+1996,Benzene,"Arts, entertainment and recreation",0.117
+1996,Benzene,Construction,1.229
+1996,Benzene,Education,6.40E-02
+1996,Benzene,"Electricity, gas, steam and air conditioning supply",0.475
+1996,Benzene,Financial and insurance activities,3.80E-02
+1996,Benzene,Human health and social work activities,0.122
+1996,Benzene,Information and communication,0.243
+1996,Benzene,Manufacturing,6.743
+1996,Benzene,Mining and quarrying,1.018
+1996,Benzene,Other service activities,0.118
+1996,Benzene,"Professional, scientific and technical activities",0.437
+1996,Benzene,Public administration and defence; compulsory social security,0.592
+1996,Benzene,Real estate activities,9.70E-02
+1996,Benzene,Transport and storage,4.556
+1996,Benzene,"Water supply; sewerage, waste management and remediation activities",1.279
+1996,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.159
+1997,Benzene,"Agriculture, forestry and fishing",0.402
+1997,Benzene,"Arts, entertainment and recreation",0.103
+1997,Benzene,Construction,1.103
+1997,Benzene,Education,5.90E-02
+1997,Benzene,"Electricity, gas, steam and air conditioning supply",0.696
+1997,Benzene,Financial and insurance activities,3.20E-02
+1997,Benzene,Human health and social work activities,0.104
+1997,Benzene,Information and communication,0.205
+1997,Benzene,Manufacturing,6.043
+1997,Benzene,Mining and quarrying,1.005
+1997,Benzene,Other service activities,0.1
+1997,Benzene,"Professional, scientific and technical activities",0.367
+1997,Benzene,Public administration and defence; compulsory social security,0.477
+1997,Benzene,Real estate activities,8.10E-02
+1997,Benzene,Transport and storage,5.307
+1997,Benzene,"Water supply; sewerage, waste management and remediation activities",1.247
+1997,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.932
+1998,Benzene,"Agriculture, forestry and fishing",0.39
+1998,Benzene,"Arts, entertainment and recreation",9.70E-02
+1998,Benzene,Construction,1.015
+1998,Benzene,Education,5.40E-02
+1998,Benzene,"Electricity, gas, steam and air conditioning supply",0.742
+1998,Benzene,Financial and insurance activities,2.90E-02
+1998,Benzene,Human health and social work activities,9.60E-02
+1998,Benzene,Information and communication,0.187
+1998,Benzene,Manufacturing,4.81
+1998,Benzene,Mining and quarrying,0.901
+1998,Benzene,Other service activities,9.10E-02
+1998,Benzene,"Professional, scientific and technical activities",0.333
+1998,Benzene,Public administration and defence; compulsory social security,0.416
+1998,Benzene,Real estate activities,7.40E-02
+1998,Benzene,Transport and storage,5.474
+1998,Benzene,"Water supply; sewerage, waste management and remediation activities",1.274
+1998,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.754
+1999,Benzene,"Agriculture, forestry and fishing",0.371
+1999,Benzene,"Arts, entertainment and recreation",8.80E-02
+1999,Benzene,Construction,0.901
+1999,Benzene,Education,4.90E-02
+1999,Benzene,"Electricity, gas, steam and air conditioning supply",0.771
+1999,Benzene,Financial and insurance activities,2.60E-02
+1999,Benzene,Human health and social work activities,8.70E-02
+1999,Benzene,Information and communication,0.166
+1999,Benzene,Manufacturing,4.218
+1999,Benzene,Mining and quarrying,0.863
+1999,Benzene,Other service activities,0.08
+1999,Benzene,"Professional, scientific and technical activities",0.294
+1999,Benzene,Public administration and defence; compulsory social security,0.388
+1999,Benzene,Real estate activities,6.50E-02
+1999,Benzene,Transport and storage,4.815
+1999,Benzene,"Water supply; sewerage, waste management and remediation activities",1.247
+1999,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.478
+2000,Benzene,"Agriculture, forestry and fishing",0.308
+2000,Benzene,"Arts, entertainment and recreation",5.60E-02
+2000,Benzene,Construction,0.421
+2000,Benzene,Education,0.03
+2000,Benzene,"Electricity, gas, steam and air conditioning supply",0.733
+2000,Benzene,Financial and insurance activities,1.20E-02
+2000,Benzene,Human health and social work activities,4.50E-02
+2000,Benzene,Information and communication,7.30E-02
+2000,Benzene,Manufacturing,3.443
+2000,Benzene,Mining and quarrying,0.89
+2000,Benzene,Other service activities,3.50E-02
+2000,Benzene,"Professional, scientific and technical activities",0.133
+2000,Benzene,Public administration and defence; compulsory social security,0.252
+2000,Benzene,Real estate activities,2.90E-02
+2000,Benzene,Transport and storage,4.196
+2000,Benzene,"Water supply; sewerage, waste management and remediation activities",1.177
+2000,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.563
+2001,Benzene,"Agriculture, forestry and fishing",0.291
+2001,Benzene,"Arts, entertainment and recreation",5.40E-02
+2001,Benzene,Construction,0.401
+2001,Benzene,Education,2.70E-02
+2001,Benzene,"Electricity, gas, steam and air conditioning supply",0.592
+2001,Benzene,Financial and insurance activities,1.10E-02
+2001,Benzene,Human health and social work activities,4.30E-02
+2001,Benzene,Information and communication,6.50E-02
+2001,Benzene,Manufacturing,3.055
+2001,Benzene,Mining and quarrying,0.868
+2001,Benzene,Other service activities,3.10E-02
+2001,Benzene,"Professional, scientific and technical activities",0.118
+2001,Benzene,Public administration and defence; compulsory social security,0.235
+2001,Benzene,Real estate activities,2.60E-02
+2001,Benzene,Transport and storage,4.789
+2001,Benzene,"Water supply; sewerage, waste management and remediation activities",1.161
+2001,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.532
+2002,Benzene,"Agriculture, forestry and fishing",0.284
+2002,Benzene,"Arts, entertainment and recreation",4.90E-02
+2002,Benzene,Construction,0.354
+2002,Benzene,Education,2.30E-02
+2002,Benzene,"Electricity, gas, steam and air conditioning supply",0.548
+2002,Benzene,Financial and insurance activities,8.00E-03
+2002,Benzene,Human health and social work activities,3.50E-02
+2002,Benzene,Information and communication,5.20E-02
+2002,Benzene,Manufacturing,2.64
+2002,Benzene,Mining and quarrying,0.816
+2002,Benzene,Other service activities,2.50E-02
+2002,Benzene,"Professional, scientific and technical activities",9.50E-02
+2002,Benzene,Public administration and defence; compulsory social security,0.212
+2002,Benzene,Real estate activities,2.10E-02
+2002,Benzene,Transport and storage,4.383
+2002,Benzene,"Water supply; sewerage, waste management and remediation activities",1.148
+2002,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.451
+2003,Benzene,"Agriculture, forestry and fishing",0.267
+2003,Benzene,"Arts, entertainment and recreation",4.60E-02
+2003,Benzene,Construction,0.317
+2003,Benzene,Education,2.20E-02
+2003,Benzene,"Electricity, gas, steam and air conditioning supply",0.734
+2003,Benzene,Financial and insurance activities,7.00E-03
+2003,Benzene,Human health and social work activities,0.03
+2003,Benzene,Information and communication,4.30E-02
+2003,Benzene,Manufacturing,2.823
+2003,Benzene,Mining and quarrying,0.694
+2003,Benzene,Other service activities,2.10E-02
+2003,Benzene,"Professional, scientific and technical activities",7.80E-02
+2003,Benzene,Public administration and defence; compulsory social security,0.217
+2003,Benzene,Real estate activities,1.80E-02
+2003,Benzene,Transport and storage,4.191
+2003,Benzene,"Water supply; sewerage, waste management and remediation activities",1.134
+2003,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.394
+2004,Benzene,"Agriculture, forestry and fishing",0.263
+2004,Benzene,"Arts, entertainment and recreation",4.40E-02
+2004,Benzene,Construction,0.303
+2004,Benzene,Education,2.10E-02
+2004,Benzene,"Electricity, gas, steam and air conditioning supply",0.55
+2004,Benzene,Financial and insurance activities,6.00E-03
+2004,Benzene,Human health and social work activities,3.20E-02
+2004,Benzene,Information and communication,3.90E-02
+2004,Benzene,Manufacturing,2.973
+2004,Benzene,Mining and quarrying,0.764
+2004,Benzene,Other service activities,1.90E-02
+2004,Benzene,"Professional, scientific and technical activities",7.40E-02
+2004,Benzene,Public administration and defence; compulsory social security,0.222
+2004,Benzene,Real estate activities,1.60E-02
+2004,Benzene,Transport and storage,4.131
+2004,Benzene,"Water supply; sewerage, waste management and remediation activities",1.098
+2004,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.364
+2005,Benzene,"Agriculture, forestry and fishing",0.257
+2005,Benzene,"Arts, entertainment and recreation",3.90E-02
+2005,Benzene,Construction,0.27
+2005,Benzene,Education,1.90E-02
+2005,Benzene,"Electricity, gas, steam and air conditioning supply",0.547
+2005,Benzene,Financial and insurance activities,5.00E-03
+2005,Benzene,Human health and social work activities,3.30E-02
+2005,Benzene,Information and communication,3.40E-02
+2005,Benzene,Manufacturing,2.931
+2005,Benzene,Mining and quarrying,0.599
+2005,Benzene,Other service activities,1.70E-02
+2005,Benzene,"Professional, scientific and technical activities",6.50E-02
+2005,Benzene,Public administration and defence; compulsory social security,0.192
+2005,Benzene,Real estate activities,1.40E-02
+2005,Benzene,Transport and storage,3.905
+2005,Benzene,"Water supply; sewerage, waste management and remediation activities",1.096
+2005,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.327
+2006,Benzene,"Agriculture, forestry and fishing",0.235
+2006,Benzene,"Arts, entertainment and recreation",3.40E-02
+2006,Benzene,Construction,0.249
+2006,Benzene,Education,1.90E-02
+2006,Benzene,"Electricity, gas, steam and air conditioning supply",0.504
+2006,Benzene,Financial and insurance activities,5.00E-03
+2006,Benzene,Human health and social work activities,2.70E-02
+2006,Benzene,Information and communication,2.80E-02
+2006,Benzene,Manufacturing,2.876
+2006,Benzene,Mining and quarrying,0.576
+2006,Benzene,Other service activities,1.40E-02
+2006,Benzene,"Professional, scientific and technical activities",5.10E-02
+2006,Benzene,Public administration and defence; compulsory social security,0.184
+2006,Benzene,Real estate activities,1.20E-02
+2006,Benzene,Transport and storage,2.595
+2006,Benzene,"Water supply; sewerage, waste management and remediation activities",1.078
+2006,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.28
+2007,Benzene,"Agriculture, forestry and fishing",0.225
+2007,Benzene,"Arts, entertainment and recreation",2.90E-02
+2007,Benzene,Construction,0.24
+2007,Benzene,Education,1.70E-02
+2007,Benzene,"Electricity, gas, steam and air conditioning supply",0.505
+2007,Benzene,Financial and insurance activities,4.00E-03
+2007,Benzene,Human health and social work activities,2.50E-02
+2007,Benzene,Information and communication,2.40E-02
+2007,Benzene,Manufacturing,2.827
+2007,Benzene,Mining and quarrying,0.579
+2007,Benzene,Other service activities,1.20E-02
+2007,Benzene,"Professional, scientific and technical activities",4.40E-02
+2007,Benzene,Public administration and defence; compulsory social security,0.181
+2007,Benzene,Real estate activities,1.10E-02
+2007,Benzene,Transport and storage,2.968
+2007,Benzene,"Water supply; sewerage, waste management and remediation activities",1.043
+2007,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.254
+2008,Benzene,"Agriculture, forestry and fishing",0.23
+2008,Benzene,"Arts, entertainment and recreation",2.50E-02
+2008,Benzene,Construction,0.205
+2008,Benzene,Education,1.60E-02
+2008,Benzene,"Electricity, gas, steam and air conditioning supply",0.46
+2008,Benzene,Financial and insurance activities,3.00E-03
+2008,Benzene,Human health and social work activities,2.50E-02
+2008,Benzene,Information and communication,0.02
+2008,Benzene,Manufacturing,2.559
+2008,Benzene,Mining and quarrying,0.536
+2008,Benzene,Other service activities,0.01
+2008,Benzene,"Professional, scientific and technical activities",3.60E-02
+2008,Benzene,Public administration and defence; compulsory social security,0.17
+2008,Benzene,Real estate activities,1.10E-02
+2008,Benzene,Transport and storage,2.65
+2008,Benzene,"Water supply; sewerage, waste management and remediation activities",1.007
+2008,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.215
+2009,Benzene,"Agriculture, forestry and fishing",0.209
+2009,Benzene,"Arts, entertainment and recreation",1.90E-02
+2009,Benzene,Construction,0.159
+2009,Benzene,Education,1.40E-02
+2009,Benzene,"Electricity, gas, steam and air conditioning supply",0.467
+2009,Benzene,Financial and insurance activities,3.00E-03
+2009,Benzene,Human health and social work activities,2.20E-02
+2009,Benzene,Information and communication,1.40E-02
+2009,Benzene,Manufacturing,2.214
+2009,Benzene,Mining and quarrying,0.55
+2009,Benzene,Other service activities,8.00E-03
+2009,Benzene,"Professional, scientific and technical activities",2.60E-02
+2009,Benzene,Public administration and defence; compulsory social security,0.162
+2009,Benzene,Real estate activities,8.00E-03
+2009,Benzene,Transport and storage,2.254
+2009,Benzene,"Water supply; sewerage, waste management and remediation activities",0.996
+2009,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.164
+2010,Benzene,"Agriculture, forestry and fishing",0.2
+2010,Benzene,"Arts, entertainment and recreation",1.70E-02
+2010,Benzene,Construction,0.172
+2010,Benzene,Education,1.50E-02
+2010,Benzene,"Electricity, gas, steam and air conditioning supply",0.446
+2010,Benzene,Financial and insurance activities,2.00E-03
+2010,Benzene,Human health and social work activities,2.30E-02
+2010,Benzene,Information and communication,1.30E-02
+2010,Benzene,Manufacturing,2.134
+2010,Benzene,Mining and quarrying,0.526
+2010,Benzene,Other service activities,7.00E-03
+2010,Benzene,"Professional, scientific and technical activities",2.40E-02
+2010,Benzene,Public administration and defence; compulsory social security,0.161
+2010,Benzene,Real estate activities,8.00E-03
+2010,Benzene,Transport and storage,2.343
+2010,Benzene,"Water supply; sewerage, waste management and remediation activities",1
+2010,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.15
+2011,Benzene,"Agriculture, forestry and fishing",0.18
+2011,Benzene,"Arts, entertainment and recreation",1.40E-02
+2011,Benzene,Construction,0.146
+2011,Benzene,Education,1.10E-02
+2011,Benzene,"Electricity, gas, steam and air conditioning supply",0.416
+2011,Benzene,Financial and insurance activities,2.00E-03
+2011,Benzene,Human health and social work activities,1.90E-02
+2011,Benzene,Information and communication,0.01
+2011,Benzene,Manufacturing,1.937
+2011,Benzene,Mining and quarrying,0.636
+2011,Benzene,Other service activities,6.00E-03
+2011,Benzene,"Professional, scientific and technical activities",0.02
+2011,Benzene,Public administration and defence; compulsory social security,0.143
+2011,Benzene,Real estate activities,7.00E-03
+2011,Benzene,Transport and storage,2.628
+2011,Benzene,"Water supply; sewerage, waste management and remediation activities",0.994
+2011,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.127
+2012,Benzene,"Agriculture, forestry and fishing",0.195
+2012,Benzene,"Arts, entertainment and recreation",1.20E-02
+2012,Benzene,Construction,0.131
+2012,Benzene,Education,1.20E-02
+2012,Benzene,"Electricity, gas, steam and air conditioning supply",0.401
+2012,Benzene,Financial and insurance activities,2.00E-03
+2012,Benzene,Human health and social work activities,2.10E-02
+2012,Benzene,Information and communication,9.00E-03
+2012,Benzene,Manufacturing,2.054
+2012,Benzene,Mining and quarrying,0.547
+2012,Benzene,Other service activities,6.00E-03
+2012,Benzene,"Professional, scientific and technical activities",1.80E-02
+2012,Benzene,Public administration and defence; compulsory social security,0.13
+2012,Benzene,Real estate activities,6.00E-03
+2012,Benzene,Transport and storage,2.345
+2012,Benzene,"Water supply; sewerage, waste management and remediation activities",0.988
+2012,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.118
+2013,Benzene,"Agriculture, forestry and fishing",0.175
+2013,Benzene,"Arts, entertainment and recreation",0.01
+2013,Benzene,Construction,0.12
+2013,Benzene,Education,1.20E-02
+2013,Benzene,"Electricity, gas, steam and air conditioning supply",0.366
+2013,Benzene,Financial and insurance activities,2.00E-03
+2013,Benzene,Human health and social work activities,2.20E-02
+2013,Benzene,Information and communication,7.00E-03
+2013,Benzene,Manufacturing,2.106
+2013,Benzene,Mining and quarrying,0.488
+2013,Benzene,Other service activities,5.00E-03
+2013,Benzene,"Professional, scientific and technical activities",1.40E-02
+2013,Benzene,Public administration and defence; compulsory social security,0.116
+2013,Benzene,Real estate activities,6.00E-03
+2013,Benzene,Transport and storage,1.973
+2013,Benzene,"Water supply; sewerage, waste management and remediation activities",0.975
+2013,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.1
+2014,Benzene,"Agriculture, forestry and fishing",0.196
+2014,Benzene,"Arts, entertainment and recreation",8.00E-03
+2014,Benzene,Construction,0.119
+2014,Benzene,Education,0.01
+2014,Benzene,"Electricity, gas, steam and air conditioning supply",0.34
+2014,Benzene,Financial and insurance activities,1.00E-03
+2014,Benzene,Human health and social work activities,1.90E-02
+2014,Benzene,Information and communication,6.00E-03
+2014,Benzene,Manufacturing,1.977
+2014,Benzene,Mining and quarrying,0.466
+2014,Benzene,Other service activities,4.00E-03
+2014,Benzene,"Professional, scientific and technical activities",1.20E-02
+2014,Benzene,Public administration and defence; compulsory social security,9.90E-02
+2014,Benzene,Real estate activities,5.00E-03
+2014,Benzene,Transport and storage,2.53
+2014,Benzene,"Water supply; sewerage, waste management and remediation activities",0.966
+2014,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.09
+2015,Benzene,"Agriculture, forestry and fishing",0.187
+2015,Benzene,"Arts, entertainment and recreation",8.00E-03
+2015,Benzene,Construction,0.119
+2015,Benzene,Education,0.01
+2015,Benzene,"Electricity, gas, steam and air conditioning supply",0.329
+2015,Benzene,Financial and insurance activities,1.00E-03
+2015,Benzene,Human health and social work activities,1.90E-02
+2015,Benzene,Information and communication,6.00E-03
+2015,Benzene,Manufacturing,2.066
+2015,Benzene,Mining and quarrying,0.536
+2015,Benzene,Other service activities,4.00E-03
+2015,Benzene,"Professional, scientific and technical activities",1.20E-02
+2015,Benzene,Public administration and defence; compulsory social security,8.10E-02
+2015,Benzene,Real estate activities,5.00E-03
+2015,Benzene,Transport and storage,2.672
+2015,Benzene,"Water supply; sewerage, waste management and remediation activities",0.938
+2015,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,8.80E-02
+2016,Benzene,"Agriculture, forestry and fishing",0.18
+2016,Benzene,"Arts, entertainment and recreation",9.00E-03
+2016,Benzene,Construction,0.122
+2016,Benzene,Education,0.01
+2016,Benzene,"Electricity, gas, steam and air conditioning supply",0.322
+2016,Benzene,Financial and insurance activities,1.00E-03
+2016,Benzene,Human health and social work activities,0.02
+2016,Benzene,Information and communication,6.00E-03
+2016,Benzene,Manufacturing,1.806
+2016,Benzene,Mining and quarrying,0.529
+2016,Benzene,Other service activities,4.00E-03
+2016,Benzene,"Professional, scientific and technical activities",1.10E-02
+2016,Benzene,Public administration and defence; compulsory social security,7.70E-02
+2016,Benzene,Real estate activities,5.00E-03
+2016,Benzene,Transport and storage,2.969
+2016,Benzene,"Water supply; sewerage, waste management and remediation activities",0.924
+2016,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,8.20E-02
+2017,Benzene,"Agriculture, forestry and fishing",0.177
+2017,Benzene,"Arts, entertainment and recreation",1.20E-02
+2017,Benzene,Construction,0.126
+2017,Benzene,Education,0.01
+2017,Benzene,"Electricity, gas, steam and air conditioning supply",0.309
+2017,Benzene,Financial and insurance activities,1.00E-03
+2017,Benzene,Human health and social work activities,1.90E-02
+2017,Benzene,Information and communication,6.00E-03
+2017,Benzene,Manufacturing,1.851
+2017,Benzene,Mining and quarrying,0.588
+2017,Benzene,Other service activities,4.00E-03
+2017,Benzene,"Professional, scientific and technical activities",1.10E-02
+2017,Benzene,Public administration and defence; compulsory social security,0.08
+2017,Benzene,Real estate activities,5.00E-03
+2017,Benzene,Transport and storage,1.788
+2017,Benzene,"Water supply; sewerage, waste management and remediation activities",0.923
+2017,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,7.20E-02
+2018,Benzene,"Agriculture, forestry and fishing",0.17
+2018,Benzene,"Arts, entertainment and recreation",1.30E-02
+2018,Benzene,Construction,0.12
+2018,Benzene,Education,0.01
+2018,Benzene,"Electricity, gas, steam and air conditioning supply",0.292
+2018,Benzene,Financial and insurance activities,2.00E-03
+2018,Benzene,Human health and social work activities,0.02
+2018,Benzene,Information and communication,6.00E-03
+2018,Benzene,Manufacturing,1.88
+2018,Benzene,Mining and quarrying,0.694
+2018,Benzene,Other service activities,4.00E-03
+2018,Benzene,"Professional, scientific and technical activities",1.10E-02
+2018,Benzene,Public administration and defence; compulsory social security,8.30E-02
+2018,Benzene,Real estate activities,5.00E-03
+2018,Benzene,Transport and storage,2.111
+2018,Benzene,"Water supply; sewerage, waste management and remediation activities",0.918
+2018,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,6.70E-02
+2019,Benzene,"Agriculture, forestry and fishing",0.152
+2019,Benzene,"Arts, entertainment and recreation",1.20E-02
+2019,Benzene,Construction,0.119
+2019,Benzene,Education,0.01
+2019,Benzene,"Electricity, gas, steam and air conditioning supply",0.282
+2019,Benzene,Financial and insurance activities,1.00E-03
+2019,Benzene,Human health and social work activities,0.02
+2019,Benzene,Information and communication,5.00E-03
+2019,Benzene,Manufacturing,1.769
+2019,Benzene,Mining and quarrying,0.585
+2019,Benzene,Other service activities,4.00E-03
+2019,Benzene,"Professional, scientific and technical activities",0.01
+2019,Benzene,Public administration and defence; compulsory social security,7.80E-02
+2019,Benzene,Real estate activities,5.00E-03
+2019,Benzene,Transport and storage,2.337
+2019,Benzene,"Water supply; sewerage, waste management and remediation activities",0.912
+2019,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,6.60E-02
+2020,Benzene,"Agriculture, forestry and fishing",0.149
+2020,Benzene,"Arts, entertainment and recreation",1.20E-02
+2020,Benzene,Construction,0.107
+2020,Benzene,Education,8.00E-03
+2020,Benzene,"Electricity, gas, steam and air conditioning supply",0.272
+2020,Benzene,Financial and insurance activities,1.00E-03
+2020,Benzene,Human health and social work activities,0.02
+2020,Benzene,Information and communication,4.00E-03
+2020,Benzene,Manufacturing,1.722
+2020,Benzene,Mining and quarrying,0.5
+2020,Benzene,Other service activities,3.00E-03
+2020,Benzene,"Professional, scientific and technical activities",8.00E-03
+2020,Benzene,Public administration and defence; compulsory social security,6.10E-02
+2020,Benzene,Real estate activities,4.00E-03
+2020,Benzene,Transport and storage,2.9
+2020,Benzene,"Water supply; sewerage, waste management and remediation activities",0.914
+2020,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.90E-02
+2021,Benzene,"Agriculture, forestry and fishing",0.152
+2021,Benzene,"Arts, entertainment and recreation",1.20E-02
+2021,Benzene,Construction,0.126
+2021,Benzene,Education,9.00E-03
+2021,Benzene,"Electricity, gas, steam and air conditioning supply",0.265
+2021,Benzene,Financial and insurance activities,1.00E-03
+2021,Benzene,Human health and social work activities,2.20E-02
+2021,Benzene,Information and communication,4.00E-03
+2021,Benzene,Manufacturing,1.742
+2021,Benzene,Mining and quarrying,0.476
+2021,Benzene,Other service activities,4.00E-03
+2021,Benzene,"Professional, scientific and technical activities",9.00E-03
+2021,Benzene,Public administration and defence; compulsory social security,8.40E-02
+2021,Benzene,Real estate activities,5.00E-03
+2021,Benzene,Transport and storage,1.953
+2021,Benzene,"Water supply; sewerage, waste management and remediation activities",0.912
+2021,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.05
+2022,Benzene,"Agriculture, forestry and fishing",0.139
+2022,Benzene,"Arts, entertainment and recreation",1.20E-02
+2022,Benzene,Construction,0.109
+2022,Benzene,Education,8.00E-03
+2022,Benzene,"Electricity, gas, steam and air conditioning supply",0.261
+2022,Benzene,Financial and insurance activities,1.00E-03
+2022,Benzene,Human health and social work activities,0.02
+2022,Benzene,Information and communication,4.00E-03
+2022,Benzene,Manufacturing,1.69
+2022,Benzene,Mining and quarrying,0.438
+2022,Benzene,Other service activities,4.00E-03
+2022,Benzene,"Professional, scientific and technical activities",8.00E-03
+2022,Benzene,Public administration and defence; compulsory social security,7.20E-02
+2022,Benzene,Real estate activities,4.00E-03
+2022,Benzene,Transport and storage,3.038
+2022,Benzene,"Water supply; sewerage, waste management and remediation activities",0.916
+2022,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.50E-02
+NA,Benzene,"Agriculture, forestry and fishing",NA
+NA,Benzene,"Arts, entertainment and recreation",NA
+NA,Benzene,Construction,NA
+NA,Benzene,Education,NA
+NA,Benzene,"Electricity, gas, steam and air conditioning supply",NA
+NA,Benzene,Financial and insurance activities,NA
+NA,Benzene,Human health and social work activities,NA
+NA,Benzene,Information and communication,NA
+NA,Benzene,Manufacturing,NA
+NA,Benzene,Mining and quarrying,NA
+NA,Benzene,Other service activities,NA
+NA,Benzene,"Professional, scientific and technical activities",NA
+NA,Benzene,Public administration and defence; compulsory social security,NA
+NA,Benzene,Real estate activities,NA
+NA,Benzene,Transport and storage,NA
+NA,Benzene,"Water supply; sewerage, waste management and remediation activities",NA
+NA,Benzene,Wholesale and retail trade; repair of motor vehicles and motorcycles,NA
+1990,CO,"Agriculture, forestry and fishing",254.081
+1990,CO,"Arts, entertainment and recreation",17.955
+1990,CO,Construction,258.035
+1990,CO,Education,18.813
+1990,CO,"Electricity, gas, steam and air conditioning supply",125.846
+1990,CO,Financial and insurance activities,5.562
+1990,CO,Human health and social work activities,24.079
+1990,CO,Information and communication,35.001
+1990,CO,Manufacturing,984.8
+1990,CO,Mining and quarrying,51.727
+1990,CO,Other service activities,19.499
+1990,CO,"Professional, scientific and technical activities",60.666
+1990,CO,Public administration and defence; compulsory social security,125.064
+1990,CO,Real estate activities,15.068
+1990,CO,Transport and storage,302.217
+1990,CO,"Water supply; sewerage, waste management and remediation activities",26.388
+1990,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,283.281
+1991,CO,"Agriculture, forestry and fishing",232.058
+1991,CO,"Arts, entertainment and recreation",18.016
+1991,CO,Construction,254.872
+1991,CO,Education,18.39
+1991,CO,"Electricity, gas, steam and air conditioning supply",124.12
+1991,CO,Financial and insurance activities,5.633
+1991,CO,Human health and social work activities,24.082
+1991,CO,Information and communication,35.633
+1991,CO,Manufacturing,956.544
+1991,CO,Mining and quarrying,50.842
+1991,CO,Other service activities,19.664
+1991,CO,"Professional, scientific and technical activities",61.744
+1991,CO,Public administration and defence; compulsory social security,124.755
+1991,CO,Real estate activities,15.198
+1991,CO,Transport and storage,311.528
+1991,CO,"Water supply; sewerage, waste management and remediation activities",26.882
+1991,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,286.097
+1992,CO,"Agriculture, forestry and fishing",188.646
+1992,CO,"Arts, entertainment and recreation",16.736
+1992,CO,Construction,240.241
+1992,CO,Education,17.373
+1992,CO,"Electricity, gas, steam and air conditioning supply",120.725
+1992,CO,Financial and insurance activities,5.391
+1992,CO,Human health and social work activities,23.527
+1992,CO,Information and communication,34.252
+1992,CO,Manufacturing,948.786
+1992,CO,Mining and quarrying,51.093
+1992,CO,Other service activities,18.598
+1992,CO,"Professional, scientific and technical activities",59.556
+1992,CO,Public administration and defence; compulsory social security,125.354
+1992,CO,Real estate activities,14.432
+1992,CO,Transport and storage,306.087
+1992,CO,"Water supply; sewerage, waste management and remediation activities",25.976
+1992,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,271.077
+1993,CO,"Agriculture, forestry and fishing",64.177
+1993,CO,"Arts, entertainment and recreation",16.323
+1993,CO,Construction,229.08
+1993,CO,Education,15.75
+1993,CO,"Electricity, gas, steam and air conditioning supply",110.724
+1993,CO,Financial and insurance activities,5.178
+1993,CO,Human health and social work activities,22.146
+1993,CO,Information and communication,32.838
+1993,CO,Manufacturing,934.19
+1993,CO,Mining and quarrying,52.436
+1993,CO,Other service activities,17.805
+1993,CO,"Professional, scientific and technical activities",57.095
+1993,CO,Public administration and defence; compulsory social security,125.354
+1993,CO,Real estate activities,13.676
+1993,CO,Transport and storage,297.336
+1993,CO,"Water supply; sewerage, waste management and remediation activities",25.061
+1993,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,257.052
+1994,CO,"Agriculture, forestry and fishing",60.769
+1994,CO,"Arts, entertainment and recreation",15.922
+1994,CO,Construction,221.744
+1994,CO,Education,13.079
+1994,CO,"Electricity, gas, steam and air conditioning supply",118.255
+1994,CO,Financial and insurance activities,5.101
+1994,CO,Human health and social work activities,21.4
+1994,CO,Information and communication,32.353
+1994,CO,Manufacturing,951.091
+1994,CO,Mining and quarrying,56.335
+1994,CO,Other service activities,17.332
+1994,CO,"Professional, scientific and technical activities",56.387
+1994,CO,Public administration and defence; compulsory social security,88.644
+1994,CO,Real estate activities,13.294
+1994,CO,Transport and storage,292.375
+1994,CO,"Water supply; sewerage, waste management and remediation activities",23.933
+1994,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,248.839
+1995,CO,"Agriculture, forestry and fishing",59.029
+1995,CO,"Arts, entertainment and recreation",15.253
+1995,CO,Construction,209.14
+1995,CO,Education,11.864
+1995,CO,"Electricity, gas, steam and air conditioning supply",117.353
+1995,CO,Financial and insurance activities,4.926
+1995,CO,Human health and social work activities,20.543
+1995,CO,Information and communication,31.215
+1995,CO,Manufacturing,950.764
+1995,CO,Mining and quarrying,55.848
+1995,CO,Other service activities,16.568
+1995,CO,"Professional, scientific and technical activities",54.579
+1995,CO,Public administration and defence; compulsory social security,70.388
+1995,CO,Real estate activities,12.655
+1995,CO,Transport and storage,285.139
+1995,CO,"Water supply; sewerage, waste management and remediation activities",23.053
+1995,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,236.096
+1996,CO,"Agriculture, forestry and fishing",59.51
+1996,CO,"Arts, entertainment and recreation",14.012
+1996,CO,Construction,198.889
+1996,CO,Education,12.2
+1996,CO,"Electricity, gas, steam and air conditioning supply",114.51
+1996,CO,Financial and insurance activities,4.406
+1996,CO,Human health and social work activities,20.037
+1996,CO,Information and communication,28.278
+1996,CO,Manufacturing,944.038
+1996,CO,Mining and quarrying,56.365
+1996,CO,Other service activities,15.064
+1996,CO,"Professional, scientific and technical activities",48.965
+1996,CO,Public administration and defence; compulsory social security,68.05
+1996,CO,Real estate activities,11.377
+1996,CO,Transport and storage,281.197
+1996,CO,"Water supply; sewerage, waste management and remediation activities",22.54
+1996,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,216.25
+1997,CO,"Agriculture, forestry and fishing",57.703
+1997,CO,"Arts, entertainment and recreation",12.217
+1997,CO,Construction,181.586
+1997,CO,Education,11.71
+1997,CO,"Electricity, gas, steam and air conditioning supply",54.381
+1997,CO,Financial and insurance activities,3.695
+1997,CO,Human health and social work activities,18.349
+1997,CO,Information and communication,24.066
+1997,CO,Manufacturing,907.047
+1997,CO,Mining and quarrying,55.742
+1997,CO,Other service activities,12.837
+1997,CO,"Professional, scientific and technical activities",41.34
+1997,CO,Public administration and defence; compulsory social security,54.129
+1997,CO,Real estate activities,9.597
+1997,CO,Transport and storage,270.633
+1997,CO,"Water supply; sewerage, waste management and remediation activities",20.145
+1997,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,186.816
+1998,CO,"Agriculture, forestry and fishing",55.074
+1998,CO,"Arts, entertainment and recreation",11.68
+1998,CO,Construction,169.255
+1998,CO,Education,9.653
+1998,CO,"Electricity, gas, steam and air conditioning supply",71.882
+1998,CO,Financial and insurance activities,3.447
+1998,CO,Human health and social work activities,17.884
+1998,CO,Information and communication,22.402
+1998,CO,Manufacturing,853.15
+1998,CO,Mining and quarrying,53.544
+1998,CO,Other service activities,11.98
+1998,CO,"Professional, scientific and technical activities",38.45
+1998,CO,Public administration and defence; compulsory social security,51.574
+1998,CO,Real estate activities,8.834
+1998,CO,Transport and storage,261.004
+1998,CO,"Water supply; sewerage, waste management and remediation activities",22.565
+1998,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,172.163
+1999,CO,"Agriculture, forestry and fishing",56.604
+1999,CO,"Arts, entertainment and recreation",10.494
+1999,CO,Construction,152.371
+1999,CO,Education,9.076
+1999,CO,"Electricity, gas, steam and air conditioning supply",64.152
+1999,CO,Financial and insurance activities,3.111
+1999,CO,Human health and social work activities,17.995
+1999,CO,Information and communication,20.223
+1999,CO,Manufacturing,845.711
+1999,CO,Mining and quarrying,46.813
+1999,CO,Other service activities,10.727
+1999,CO,"Professional, scientific and technical activities",34.696
+1999,CO,Public administration and defence; compulsory social security,48.664
+1999,CO,Real estate activities,7.898
+1999,CO,Transport and storage,248.122
+1999,CO,"Water supply; sewerage, waste management and remediation activities",20.044
+1999,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,154.299
+2000,CO,"Agriculture, forestry and fishing",65.418
+2000,CO,"Arts, entertainment and recreation",9.356
+2000,CO,Construction,132.381
+2000,CO,Education,7.626
+2000,CO,"Electricity, gas, steam and air conditioning supply",75.382
+2000,CO,Financial and insurance activities,2.712
+2000,CO,Human health and social work activities,16.909
+2000,CO,Information and communication,17.542
+2000,CO,Manufacturing,752.311
+2000,CO,Mining and quarrying,45.6
+2000,CO,Other service activities,9.26
+2000,CO,"Professional, scientific and technical activities",30.193
+2000,CO,Public administration and defence; compulsory social security,44.739
+2000,CO,Real estate activities,6.775
+2000,CO,Transport and storage,232.92
+2000,CO,"Water supply; sewerage, waste management and remediation activities",18.832
+2000,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,132.289
+2001,CO,"Agriculture, forestry and fishing",64.645
+2001,CO,"Arts, entertainment and recreation",8.544
+2001,CO,Construction,115.338
+2001,CO,Education,6.927
+2001,CO,"Electricity, gas, steam and air conditioning supply",77.105
+2001,CO,Financial and insurance activities,2.207
+2001,CO,Human health and social work activities,15.991
+2001,CO,Information and communication,14.174
+2001,CO,Manufacturing,734.181
+2001,CO,Mining and quarrying,45.7
+2001,CO,Other service activities,7.667
+2001,CO,"Professional, scientific and technical activities",24.207
+2001,CO,Public administration and defence; compulsory social security,40.884
+2001,CO,Real estate activities,5.454
+2001,CO,Transport and storage,221.894
+2001,CO,"Water supply; sewerage, waste management and remediation activities",38.798
+2001,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,108.717
+2002,CO,"Agriculture, forestry and fishing",63.911
+2002,CO,"Arts, entertainment and recreation",7.252
+2002,CO,Construction,99.669
+2002,CO,Education,5.492
+2002,CO,"Electricity, gas, steam and air conditioning supply",73.583
+2002,CO,Financial and insurance activities,1.682
+2002,CO,Human health and social work activities,12.843
+2002,CO,Information and communication,10.963
+2002,CO,Manufacturing,601.837
+2002,CO,Mining and quarrying,41.47
+2002,CO,Other service activities,6.086
+2002,CO,"Professional, scientific and technical activities",18.541
+2002,CO,Public administration and defence; compulsory social security,35.2
+2002,CO,Real estate activities,4.21
+2002,CO,Transport and storage,198.909
+2002,CO,"Water supply; sewerage, waste management and remediation activities",16.242
+2002,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,87.362
+2003,CO,"Agriculture, forestry and fishing",68.387
+2003,CO,"Arts, entertainment and recreation",6.553
+2003,CO,Construction,88.344
+2003,CO,Education,4.525
+2003,CO,"Electricity, gas, steam and air conditioning supply",77.922
+2003,CO,Financial and insurance activities,1.334
+2003,CO,Human health and social work activities,11.292
+2003,CO,Information and communication,8.7
+2003,CO,Manufacturing,528.255
+2003,CO,Mining and quarrying,38.973
+2003,CO,Other service activities,5.037
+2003,CO,"Professional, scientific and technical activities",14.614
+2003,CO,Public administration and defence; compulsory social security,32.158
+2003,CO,Real estate activities,3.39
+2003,CO,Transport and storage,185.273
+2003,CO,"Water supply; sewerage, waste management and remediation activities",15.183
+2003,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,72.769
+2004,CO,"Agriculture, forestry and fishing",62.942
+2004,CO,"Arts, entertainment and recreation",6.235
+2004,CO,Construction,83.511
+2004,CO,Education,4.313
+2004,CO,"Electricity, gas, steam and air conditioning supply",78.57
+2004,CO,Financial and insurance activities,1.191
+2004,CO,Human health and social work activities,11.265
+2004,CO,Information and communication,7.675
+2004,CO,Manufacturing,511.292
+2004,CO,Mining and quarrying,37.809
+2004,CO,Other service activities,4.467
+2004,CO,"Professional, scientific and technical activities",12.937
+2004,CO,Public administration and defence; compulsory social security,30.841
+2004,CO,Real estate activities,3.013
+2004,CO,Transport and storage,180.837
+2004,CO,"Water supply; sewerage, waste management and remediation activities",14.888
+2004,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,65.041
+2005,CO,"Agriculture, forestry and fishing",64.198
+2005,CO,"Arts, entertainment and recreation",5.841
+2005,CO,Construction,74.655
+2005,CO,Education,4.33
+2005,CO,"Electricity, gas, steam and air conditioning supply",80.4
+2005,CO,Financial and insurance activities,1.012
+2005,CO,Human health and social work activities,11.752
+2005,CO,Information and communication,6.522
+2005,CO,Manufacturing,508.469
+2005,CO,Mining and quarrying,38.342
+2005,CO,Other service activities,3.92
+2005,CO,"Professional, scientific and technical activities",10.944
+2005,CO,Public administration and defence; compulsory social security,27.615
+2005,CO,Real estate activities,2.609
+2005,CO,Transport and storage,173.552
+2005,CO,"Water supply; sewerage, waste management and remediation activities",14.508
+2005,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,56.845
+2006,CO,"Agriculture, forestry and fishing",55.632
+2006,CO,"Arts, entertainment and recreation",4.752
+2006,CO,Construction,69.684
+2006,CO,Education,4.072
+2006,CO,"Electricity, gas, steam and air conditioning supply",85.548
+2006,CO,Financial and insurance activities,0.843
+2006,CO,Human health and social work activities,9.971
+2006,CO,Information and communication,5.328
+2006,CO,Manufacturing,537.385
+2006,CO,Mining and quarrying,34.554
+2006,CO,Other service activities,3.258
+2006,CO,"Professional, scientific and technical activities",8.853
+2006,CO,Public administration and defence; compulsory social security,26.279
+2006,CO,Real estate activities,2.204
+2006,CO,Transport and storage,156.656
+2006,CO,"Water supply; sewerage, waste management and remediation activities",14.268
+2006,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,49.132
+2007,CO,"Agriculture, forestry and fishing",58.658
+2007,CO,"Arts, entertainment and recreation",4.395
+2007,CO,Construction,68.125
+2007,CO,Education,3.697
+2007,CO,"Electricity, gas, steam and air conditioning supply",85.573
+2007,CO,Financial and insurance activities,0.739
+2007,CO,Human health and social work activities,8.286
+2007,CO,Information and communication,4.586
+2007,CO,Manufacturing,511.749
+2007,CO,Mining and quarrying,35.072
+2007,CO,Other service activities,2.737
+2007,CO,"Professional, scientific and technical activities",7.566
+2007,CO,Public administration and defence; compulsory social security,23.277
+2007,CO,Real estate activities,1.954
+2007,CO,Transport and storage,146.139
+2007,CO,"Water supply; sewerage, waste management and remediation activities",13.39
+2007,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,44.628
+2008,CO,"Agriculture, forestry and fishing",60.842
+2008,CO,"Arts, entertainment and recreation",4.053
+2008,CO,Construction,60.027
+2008,CO,Education,3.024
+2008,CO,"Electricity, gas, steam and air conditioning supply",83.96
+2008,CO,Financial and insurance activities,0.618
+2008,CO,Human health and social work activities,7.663
+2008,CO,Information and communication,3.739
+2008,CO,Manufacturing,465.78
+2008,CO,Mining and quarrying,33.288
+2008,CO,Other service activities,2.384
+2008,CO,"Professional, scientific and technical activities",6.135
+2008,CO,Public administration and defence; compulsory social security,19.993
+2008,CO,Real estate activities,1.713
+2008,CO,Transport and storage,133.029
+2008,CO,"Water supply; sewerage, waste management and remediation activities",12.169
+2008,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,38.049
+2009,CO,"Agriculture, forestry and fishing",57.737
+2009,CO,"Arts, entertainment and recreation",3.835
+2009,CO,Construction,48.893
+2009,CO,Education,2.732
+2009,CO,"Electricity, gas, steam and air conditioning supply",73.573
+2009,CO,Financial and insurance activities,0.509
+2009,CO,Human health and social work activities,6.558
+2009,CO,Information and communication,3.014
+2009,CO,Manufacturing,373.98
+2009,CO,Mining and quarrying,33.524
+2009,CO,Other service activities,1.992
+2009,CO,"Professional, scientific and technical activities",4.853
+2009,CO,Public administration and defence; compulsory social security,17.622
+2009,CO,Real estate activities,1.42
+2009,CO,Transport and storage,114.769
+2009,CO,"Water supply; sewerage, waste management and remediation activities",11.742
+2009,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,33.94
+2010,CO,"Agriculture, forestry and fishing",59.418
+2010,CO,"Arts, entertainment and recreation",3.483
+2010,CO,Construction,52.482
+2010,CO,Education,2.806
+2010,CO,"Electricity, gas, steam and air conditioning supply",77.073
+2010,CO,Financial and insurance activities,0.471
+2010,CO,Human health and social work activities,6.661
+2010,CO,Information and communication,2.766
+2010,CO,Manufacturing,329.22
+2010,CO,Mining and quarrying,33.105
+2010,CO,Other service activities,1.772
+2010,CO,"Professional, scientific and technical activities",4.468
+2010,CO,Public administration and defence; compulsory social security,16.959
+2010,CO,Real estate activities,1.358
+2010,CO,Transport and storage,114.29
+2010,CO,"Water supply; sewerage, waste management and remediation activities",12.442
+2010,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,32.324
+2011,CO,"Agriculture, forestry and fishing",49.717
+2011,CO,"Arts, entertainment and recreation",3.257
+2011,CO,Construction,47.314
+2011,CO,Education,2.363
+2011,CO,"Electricity, gas, steam and air conditioning supply",77.876
+2011,CO,Financial and insurance activities,0.392
+2011,CO,Human health and social work activities,6.174
+2011,CO,Information and communication,2.26
+2011,CO,Manufacturing,328.849
+2011,CO,Mining and quarrying,31.17
+2011,CO,Other service activities,1.509
+2011,CO,"Professional, scientific and technical activities",3.655
+2011,CO,Public administration and defence; compulsory social security,15.289
+2011,CO,Real estate activities,1.144
+2011,CO,Transport and storage,109.47
+2011,CO,"Water supply; sewerage, waste management and remediation activities",12.121
+2011,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,28.092
+2012,CO,"Agriculture, forestry and fishing",51.628
+2012,CO,"Arts, entertainment and recreation",3.187
+2012,CO,Construction,43.681
+2012,CO,Education,2.423
+2012,CO,"Electricity, gas, steam and air conditioning supply",88.932
+2012,CO,Financial and insurance activities,0.341
+2012,CO,Human health and social work activities,5.87
+2012,CO,Information and communication,1.919
+2012,CO,Manufacturing,344.537
+2012,CO,Mining and quarrying,27.933
+2012,CO,Other service activities,1.348
+2012,CO,"Professional, scientific and technical activities",3.151
+2012,CO,Public administration and defence; compulsory social security,13.794
+2012,CO,Real estate activities,1.051
+2012,CO,Transport and storage,102.801
+2012,CO,"Water supply; sewerage, waste management and remediation activities",11.851
+2012,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,25.278
+2013,CO,"Agriculture, forestry and fishing",44.652
+2013,CO,"Arts, entertainment and recreation",3.068
+2013,CO,Construction,39.715
+2013,CO,Education,2.471
+2013,CO,"Electricity, gas, steam and air conditioning supply",84.706
+2013,CO,Financial and insurance activities,0.281
+2013,CO,Human health and social work activities,5.708
+2013,CO,Information and communication,1.516
+2013,CO,Manufacturing,394.689
+2013,CO,Mining and quarrying,28.006
+2013,CO,Other service activities,1.158
+2013,CO,"Professional, scientific and technical activities",2.479
+2013,CO,Public administration and defence; compulsory social security,12.081
+2013,CO,Real estate activities,0.898
+2013,CO,Transport and storage,94.264
+2013,CO,"Water supply; sewerage, waste management and remediation activities",11.543
+2013,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,21.381
+2014,CO,"Agriculture, forestry and fishing",47.186
+2014,CO,"Arts, entertainment and recreation",2.965
+2014,CO,Construction,39.665
+2014,CO,Education,2.211
+2014,CO,"Electricity, gas, steam and air conditioning supply",72.447
+2014,CO,Financial and insurance activities,0.245
+2014,CO,Human health and social work activities,5.573
+2014,CO,Information and communication,1.321
+2014,CO,Manufacturing,414.22
+2014,CO,Mining and quarrying,28.511
+2014,CO,Other service activities,1.033
+2014,CO,"Professional, scientific and technical activities",2.185
+2014,CO,Public administration and defence; compulsory social security,11.365
+2014,CO,Real estate activities,0.788
+2014,CO,Transport and storage,95.078
+2014,CO,"Water supply; sewerage, waste management and remediation activities",11.233
+2014,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,19.043
+2015,CO,"Agriculture, forestry and fishing",62.53
+2015,CO,"Arts, entertainment and recreation",2.943
+2015,CO,Construction,39.965
+2015,CO,Education,2.041
+2015,CO,"Electricity, gas, steam and air conditioning supply",64.079
+2015,CO,Financial and insurance activities,0.237
+2015,CO,Human health and social work activities,4.173
+2015,CO,Information and communication,1.254
+2015,CO,Manufacturing,379.34
+2015,CO,Mining and quarrying,39.471
+2015,CO,Other service activities,1.069
+2015,CO,"Professional, scientific and technical activities",2.127
+2015,CO,Public administration and defence; compulsory social security,9.253
+2015,CO,Real estate activities,0.782
+2015,CO,Transport and storage,88.421
+2015,CO,"Water supply; sewerage, waste management and remediation activities",11.477
+2015,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,17.691
+2016,CO,"Agriculture, forestry and fishing",55.959
+2016,CO,"Arts, entertainment and recreation",2.978
+2016,CO,Construction,40.321
+2016,CO,Education,2.129
+2016,CO,"Electricity, gas, steam and air conditioning supply",44.657
+2016,CO,Financial and insurance activities,0.222
+2016,CO,Human health and social work activities,4.535
+2016,CO,Information and communication,1.132
+2016,CO,Manufacturing,297.74
+2016,CO,Mining and quarrying,39.621
+2016,CO,Other service activities,1.001
+2016,CO,"Professional, scientific and technical activities",1.957
+2016,CO,Public administration and defence; compulsory social security,9.117
+2016,CO,Real estate activities,0.733
+2016,CO,Transport and storage,88.203
+2016,CO,"Water supply; sewerage, waste management and remediation activities",11.685
+2016,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,15.629
+2017,CO,"Agriculture, forestry and fishing",50.284
+2017,CO,"Arts, entertainment and recreation",3.087
+2017,CO,Construction,40.889
+2017,CO,Education,2.246
+2017,CO,"Electricity, gas, steam and air conditioning supply",41.691
+2017,CO,Financial and insurance activities,0.202
+2017,CO,Human health and social work activities,4.196
+2017,CO,Information and communication,0.994
+2017,CO,Manufacturing,303.888
+2017,CO,Mining and quarrying,38.88
+2017,CO,Other service activities,0.918
+2017,CO,"Professional, scientific and technical activities",1.711
+2017,CO,Public administration and defence; compulsory social security,8.814
+2017,CO,Real estate activities,0.658
+2017,CO,Transport and storage,76.023
+2017,CO,"Water supply; sewerage, waste management and remediation activities",11.788
+2017,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,13.156
+2018,CO,"Agriculture, forestry and fishing",60.047
+2018,CO,"Arts, entertainment and recreation",3.115
+2018,CO,Construction,40.114
+2018,CO,Education,2.333
+2018,CO,"Electricity, gas, steam and air conditioning supply",52.387
+2018,CO,Financial and insurance activities,0.189
+2018,CO,Human health and social work activities,4.365
+2018,CO,Information and communication,0.87
+2018,CO,Manufacturing,296.93
+2018,CO,Mining and quarrying,39.024
+2018,CO,Other service activities,0.88
+2018,CO,"Professional, scientific and technical activities",1.537
+2018,CO,Public administration and defence; compulsory social security,8.551
+2018,CO,Real estate activities,0.618
+2018,CO,Transport and storage,74.037
+2018,CO,"Water supply; sewerage, waste management and remediation activities",11.528
+2018,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,11.056
+2019,CO,"Agriculture, forestry and fishing",66.049
+2019,CO,"Arts, entertainment and recreation",3.058
+2019,CO,Construction,40.049
+2019,CO,Education,2.102
+2019,CO,"Electricity, gas, steam and air conditioning supply",40.268
+2019,CO,Financial and insurance activities,0.181
+2019,CO,Human health and social work activities,3.922
+2019,CO,Information and communication,0.807
+2019,CO,Manufacturing,293.518
+2019,CO,Mining and quarrying,39.438
+2019,CO,Other service activities,0.805
+2019,CO,"Professional, scientific and technical activities",1.452
+2019,CO,Public administration and defence; compulsory social security,7.882
+2019,CO,Real estate activities,0.592
+2019,CO,Transport and storage,69.305
+2019,CO,"Water supply; sewerage, waste management and remediation activities",10.544
+2019,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,9.774
+2020,CO,"Agriculture, forestry and fishing",47.856
+2020,CO,"Arts, entertainment and recreation",2.923
+2020,CO,Construction,33.717
+2020,CO,Education,1.758
+2020,CO,"Electricity, gas, steam and air conditioning supply",44.177
+2020,CO,Financial and insurance activities,0.132
+2020,CO,Human health and social work activities,3.42
+2020,CO,Information and communication,0.525
+2020,CO,Manufacturing,293.391
+2020,CO,Mining and quarrying,35.928
+2020,CO,Other service activities,0.649
+2020,CO,"Professional, scientific and technical activities",0.96
+2020,CO,Public administration and defence; compulsory social security,5.825
+2020,CO,Real estate activities,0.464
+2020,CO,Transport and storage,52.63
+2020,CO,"Water supply; sewerage, waste management and remediation activities",10.462
+2020,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,6.434
+2021,CO,"Agriculture, forestry and fishing",52.221
+2021,CO,"Arts, entertainment and recreation",2.97
+2021,CO,Construction,39.112
+2021,CO,Education,1.86
+2021,CO,"Electricity, gas, steam and air conditioning supply",47.776
+2021,CO,Financial and insurance activities,0.142
+2021,CO,Human health and social work activities,4.501
+2021,CO,Information and communication,0.576
+2021,CO,Manufacturing,278.15
+2021,CO,Mining and quarrying,30.88
+2021,CO,Other service activities,0.662
+2021,CO,"Professional, scientific and technical activities",1.069
+2021,CO,Public administration and defence; compulsory social security,8
+2021,CO,Real estate activities,0.489
+2021,CO,Transport and storage,51.42
+2021,CO,"Water supply; sewerage, waste management and remediation activities",10.761
+2021,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,6.755
+2022,CO,"Agriculture, forestry and fishing",52.157
+2022,CO,"Arts, entertainment and recreation",2.966
+2022,CO,Construction,39.287
+2022,CO,Education,1.713
+2022,CO,"Electricity, gas, steam and air conditioning supply",39.31
+2022,CO,Financial and insurance activities,0.14
+2022,CO,Human health and social work activities,4.393
+2022,CO,Information and communication,0.585
+2022,CO,Manufacturing,223.447
+2022,CO,Mining and quarrying,27.929
+2022,CO,Other service activities,0.643
+2022,CO,"Professional, scientific and technical activities",1.069
+2022,CO,Public administration and defence; compulsory social security,8.241
+2022,CO,Real estate activities,0.473
+2022,CO,Transport and storage,63.127
+2022,CO,"Water supply; sewerage, waste management and remediation activities",10.976
+2022,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,6.513
+2023,CO,"Agriculture, forestry and fishing",51.988
+2023,CO,"Arts, entertainment and recreation",3.167
+2023,CO,Construction,38.596
+2023,CO,Education,1.688
+2023,CO,"Electricity, gas, steam and air conditioning supply",33.319
+2023,CO,Financial and insurance activities,0.136
+2023,CO,Human health and social work activities,4.522
+2023,CO,Information and communication,0.577
+2023,CO,Manufacturing,197.011
+2023,CO,Mining and quarrying,26.212
+2023,CO,Other service activities,0.647
+2023,CO,"Professional, scientific and technical activities",1.048
+2023,CO,Public administration and defence; compulsory social security,9.117
+2023,CO,Real estate activities,0.462
+2023,CO,Transport and storage,63.413
+2023,CO,"Water supply; sewerage, waste management and remediation activities",10.793
+2023,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,6.422
+NA,CO,"Agriculture, forestry and fishing",NA
+NA,CO,"Arts, entertainment and recreation",NA
+NA,CO,Construction,NA
+NA,CO,Education,NA
+NA,CO,"Electricity, gas, steam and air conditioning supply",NA
+NA,CO,Financial and insurance activities,NA
+NA,CO,Human health and social work activities,NA
+NA,CO,Information and communication,NA
+NA,CO,Manufacturing,NA
+NA,CO,Mining and quarrying,NA
+NA,CO,Other service activities,NA
+NA,CO,"Professional, scientific and technical activities",NA
+NA,CO,Public administration and defence; compulsory social security,NA
+NA,CO,Real estate activities,NA
+NA,CO,Transport and storage,NA
+NA,CO,"Water supply; sewerage, waste management and remediation activities",NA
+NA,CO,Wholesale and retail trade; repair of motor vehicles and motorcycles,NA
+1990,NMVOC,"Agriculture, forestry and fishing",211.095
+1990,NMVOC,"Arts, entertainment and recreation",3.229
+1990,NMVOC,Construction,113.582
+1990,NMVOC,Education,3.12
+1990,NMVOC,"Electricity, gas, steam and air conditioning supply",51.081
+1990,NMVOC,Financial and insurance activities,1.057
+1990,NMVOC,Human health and social work activities,5.536
+1990,NMVOC,Information and communication,6.474
+1990,NMVOC,Manufacturing,806.066
+1990,NMVOC,Mining and quarrying,365.294
+1990,NMVOC,Other service activities,11.884
+1990,NMVOC,"Professional, scientific and technical activities",12.127
+1990,NMVOC,Public administration and defence; compulsory social security,22.561
+1990,NMVOC,Real estate activities,2.762
+1990,NMVOC,Transport and storage,83.787
+1990,NMVOC,"Water supply; sewerage, waste management and remediation activities",16.558
+1990,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,183.453
+1991,NMVOC,"Agriculture, forestry and fishing",210.703
+1991,NMVOC,"Arts, entertainment and recreation",3.259
+1991,NMVOC,Construction,106.589
+1991,NMVOC,Education,3.233
+1991,NMVOC,"Electricity, gas, steam and air conditioning supply",51.007
+1991,NMVOC,Financial and insurance activities,1.065
+1991,NMVOC,Human health and social work activities,5.639
+1991,NMVOC,Information and communication,6.55
+1991,NMVOC,Manufacturing,764.083
+1991,NMVOC,Mining and quarrying,371.828
+1991,NMVOC,Other service activities,11.435
+1991,NMVOC,"Professional, scientific and technical activities",12.222
+1991,NMVOC,Public administration and defence; compulsory social security,22.638
+1991,NMVOC,Real estate activities,2.769
+1991,NMVOC,Transport and storage,86.868
+1991,NMVOC,"Water supply; sewerage, waste management and remediation activities",16.722
+1991,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,177.534
+1992,NMVOC,"Agriculture, forestry and fishing",208.383
+1992,NMVOC,"Arts, entertainment and recreation",3.146
+1992,NMVOC,Construction,100.461
+1992,NMVOC,Education,3.243
+1992,NMVOC,"Electricity, gas, steam and air conditioning supply",50.112
+1992,NMVOC,Financial and insurance activities,1.028
+1992,NMVOC,Human health and social work activities,5.619
+1992,NMVOC,Information and communication,6.327
+1992,NMVOC,Manufacturing,736.38
+1992,NMVOC,Mining and quarrying,353.038
+1992,NMVOC,Other service activities,10.771
+1992,NMVOC,"Professional, scientific and technical activities",11.828
+1992,NMVOC,Public administration and defence; compulsory social security,22.824
+1992,NMVOC,Real estate activities,2.64
+1992,NMVOC,Transport and storage,83.989
+1992,NMVOC,"Water supply; sewerage, waste management and remediation activities",16.574
+1992,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,175.496
+1993,NMVOC,"Agriculture, forestry and fishing",206.127
+1993,NMVOC,"Arts, entertainment and recreation",3.028
+1993,NMVOC,Construction,96.404
+1993,NMVOC,Education,2.897
+1993,NMVOC,"Electricity, gas, steam and air conditioning supply",48.926
+1993,NMVOC,Financial and insurance activities,0.974
+1993,NMVOC,Human health and social work activities,5.365
+1993,NMVOC,Information and communication,6.007
+1993,NMVOC,Manufacturing,717.831
+1993,NMVOC,Mining and quarrying,308.465
+1993,NMVOC,Other service activities,10.068
+1993,NMVOC,"Professional, scientific and technical activities",11.228
+1993,NMVOC,Public administration and defence; compulsory social security,22.732
+1993,NMVOC,Real estate activities,2.48
+1993,NMVOC,Transport and storage,81.387
+1993,NMVOC,"Water supply; sewerage, waste management and remediation activities",16.461
+1993,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,169.253
+1994,NMVOC,"Agriculture, forestry and fishing",205.366
+1994,NMVOC,"Arts, entertainment and recreation",2.973
+1994,NMVOC,Construction,94.343
+1994,NMVOC,Education,2.788
+1994,NMVOC,"Electricity, gas, steam and air conditioning supply",48.383
+1994,NMVOC,Financial and insurance activities,0.959
+1994,NMVOC,Human health and social work activities,5.382
+1994,NMVOC,Information and communication,5.929
+1994,NMVOC,Manufacturing,721.983
+1994,NMVOC,Mining and quarrying,260.359
+1994,NMVOC,Other service activities,9.468
+1994,NMVOC,"Professional, scientific and technical activities",11.105
+1994,NMVOC,Public administration and defence; compulsory social security,15.825
+1994,NMVOC,Real estate activities,2.417
+1994,NMVOC,Transport and storage,79.287
+1994,NMVOC,"Water supply; sewerage, waste management and remediation activities",16.41
+1994,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,165.986
+1995,NMVOC,"Agriculture, forestry and fishing",197.831
+1995,NMVOC,"Arts, entertainment and recreation",2.933
+1995,NMVOC,Construction,90.425
+1995,NMVOC,Education,2.824
+1995,NMVOC,"Electricity, gas, steam and air conditioning supply",48.608
+1995,NMVOC,Financial and insurance activities,0.933
+1995,NMVOC,Human health and social work activities,5.5
+1995,NMVOC,Information and communication,5.766
+1995,NMVOC,Manufacturing,671.942
+1995,NMVOC,Mining and quarrying,276.469
+1995,NMVOC,Other service activities,8.854
+1995,NMVOC,"Professional, scientific and technical activities",10.894
+1995,NMVOC,Public administration and defence; compulsory social security,12.795
+1995,NMVOC,Real estate activities,2.321
+1995,NMVOC,Transport and storage,79.363
+1995,NMVOC,"Water supply; sewerage, waste management and remediation activities",16.567
+1995,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,158.416
+1996,NMVOC,"Agriculture, forestry and fishing",202.779
+1996,NMVOC,"Arts, entertainment and recreation",2.731
+1996,NMVOC,Construction,86.797
+1996,NMVOC,Education,2.902
+1996,NMVOC,"Electricity, gas, steam and air conditioning supply",46.959
+1996,NMVOC,Financial and insurance activities,0.825
+1996,NMVOC,Human health and social work activities,5.378
+1996,NMVOC,Information and communication,5.151
+1996,NMVOC,Manufacturing,642.843
+1996,NMVOC,Mining and quarrying,269.529
+1996,NMVOC,Other service activities,8.031
+1996,NMVOC,"Professional, scientific and technical activities",9.438
+1996,NMVOC,Public administration and defence; compulsory social security,12.13
+1996,NMVOC,Real estate activities,2.06
+1996,NMVOC,Transport and storage,79.807
+1996,NMVOC,"Water supply; sewerage, waste management and remediation activities",15.996
+1996,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,150.649
+1997,NMVOC,"Agriculture, forestry and fishing",208.898
+1997,NMVOC,"Arts, entertainment and recreation",2.467
+1997,NMVOC,Construction,82.307
+1997,NMVOC,Education,2.942
+1997,NMVOC,"Electricity, gas, steam and air conditioning supply",64.035
+1997,NMVOC,Financial and insurance activities,0.703
+1997,NMVOC,Human health and social work activities,4.892
+1997,NMVOC,Information and communication,4.437
+1997,NMVOC,Manufacturing,602.438
+1997,NMVOC,Mining and quarrying,262.348
+1997,NMVOC,Other service activities,7.132
+1997,NMVOC,"Professional, scientific and technical activities",8.144
+1997,NMVOC,Public administration and defence; compulsory social security,9.642
+1997,NMVOC,Real estate activities,1.758
+1997,NMVOC,Transport and storage,81.939
+1997,NMVOC,"Water supply; sewerage, waste management and remediation activities",15.479
+1997,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,148.289
+1998,NMVOC,"Agriculture, forestry and fishing",204.887
+1998,NMVOC,"Arts, entertainment and recreation",2.302
+1998,NMVOC,Construction,80.252
+1998,NMVOC,Education,2.783
+1998,NMVOC,"Electricity, gas, steam and air conditioning supply",67.323
+1998,NMVOC,Financial and insurance activities,0.647
+1998,NMVOC,Human health and social work activities,4.841
+1998,NMVOC,Information and communication,4.115
+1998,NMVOC,Manufacturing,557.985
+1998,NMVOC,Mining and quarrying,276.563
+1998,NMVOC,Other service activities,6.391
+1998,NMVOC,"Professional, scientific and technical activities",7.526
+1998,NMVOC,Public administration and defence; compulsory social security,9.215
+1998,NMVOC,Real estate activities,1.618
+1998,NMVOC,Transport and storage,80.498
+1998,NMVOC,"Water supply; sewerage, waste management and remediation activities",15.956
+1998,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,134.884
+1999,NMVOC,"Agriculture, forestry and fishing",207.076
+1999,NMVOC,"Arts, entertainment and recreation",2.167
+1999,NMVOC,Construction,75.585
+1999,NMVOC,Education,2.63
+1999,NMVOC,"Electricity, gas, steam and air conditioning supply",70.02
+1999,NMVOC,Financial and insurance activities,0.587
+1999,NMVOC,Human health and social work activities,4.682
+1999,NMVOC,Information and communication,3.727
+1999,NMVOC,Manufacturing,477.304
+1999,NMVOC,Mining and quarrying,228.15
+1999,NMVOC,Other service activities,5.695
+1999,NMVOC,"Professional, scientific and technical activities",6.773
+1999,NMVOC,Public administration and defence; compulsory social security,8.589
+1999,NMVOC,Real estate activities,1.456
+1999,NMVOC,Transport and storage,73.758
+1999,NMVOC,"Water supply; sewerage, waste management and remediation activities",15.082
+1999,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,106.023
+2000,NMVOC,"Agriculture, forestry and fishing",200.766
+2000,NMVOC,"Arts, entertainment and recreation",2.028
+2000,NMVOC,Construction,73.438
+2000,NMVOC,Education,2.41
+2000,NMVOC,"Electricity, gas, steam and air conditioning supply",70.926
+2000,NMVOC,Financial and insurance activities,0.524
+2000,NMVOC,Human health and social work activities,4.413
+2000,NMVOC,Information and communication,3.31
+2000,NMVOC,Manufacturing,434.318
+2000,NMVOC,Mining and quarrying,226.023
+2000,NMVOC,Other service activities,4.225
+2000,NMVOC,"Professional, scientific and technical activities",5.91
+2000,NMVOC,Public administration and defence; compulsory social security,7.833
+2000,NMVOC,Real estate activities,1.284
+2000,NMVOC,Transport and storage,70.281
+2000,NMVOC,"Water supply; sewerage, waste management and remediation activities",14.187
+2000,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,97.649
+2001,NMVOC,"Agriculture, forestry and fishing",199.917
+2001,NMVOC,"Arts, entertainment and recreation",1.861
+2001,NMVOC,Construction,70.699
+2001,NMVOC,Education,2.147
+2001,NMVOC,"Electricity, gas, steam and air conditioning supply",65.207
+2001,NMVOC,Financial and insurance activities,0.423
+2001,NMVOC,Human health and social work activities,4.286
+2001,NMVOC,Information and communication,2.681
+2001,NMVOC,Manufacturing,387.523
+2001,NMVOC,Mining and quarrying,232.145
+2001,NMVOC,Other service activities,3.382
+2001,NMVOC,"Professional, scientific and technical activities",4.755
+2001,NMVOC,Public administration and defence; compulsory social security,7.023
+2001,NMVOC,Real estate activities,1.044
+2001,NMVOC,Transport and storage,71.901
+2001,NMVOC,"Water supply; sewerage, waste management and remediation activities",13.654
+2001,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,92.198
+2002,NMVOC,"Agriculture, forestry and fishing",197.717
+2002,NMVOC,"Arts, entertainment and recreation",1.64
+2002,NMVOC,Construction,65.995
+2002,NMVOC,Education,1.766
+2002,NMVOC,"Electricity, gas, steam and air conditioning supply",63.17
+2002,NMVOC,Financial and insurance activities,0.315
+2002,NMVOC,Human health and social work activities,3.726
+2002,NMVOC,Information and communication,2.021
+2002,NMVOC,Manufacturing,365.987
+2002,NMVOC,Mining and quarrying,220.119
+2002,NMVOC,Other service activities,2.881
+2002,NMVOC,"Professional, scientific and technical activities",3.679
+2002,NMVOC,Public administration and defence; compulsory social security,6.157
+2002,NMVOC,Real estate activities,0.791
+2002,NMVOC,Transport and storage,63.624
+2002,NMVOC,"Water supply; sewerage, waste management and remediation activities",13.023
+2002,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,84.715
+2003,NMVOC,"Agriculture, forestry and fishing",200.102
+2003,NMVOC,"Arts, entertainment and recreation",1.548
+2003,NMVOC,Construction,62.981
+2003,NMVOC,Education,1.638
+2003,NMVOC,"Electricity, gas, steam and air conditioning supply",73.18
+2003,NMVOC,Financial and insurance activities,0.25
+2003,NMVOC,Human health and social work activities,3.476
+2003,NMVOC,Information and communication,1.613
+2003,NMVOC,Manufacturing,353.687
+2003,NMVOC,Mining and quarrying,192.128
+2003,NMVOC,Other service activities,2.634
+2003,NMVOC,"Professional, scientific and technical activities",3.029
+2003,NMVOC,Public administration and defence; compulsory social security,5.788
+2003,NMVOC,Real estate activities,0.648
+2003,NMVOC,Transport and storage,61.425
+2003,NMVOC,"Water supply; sewerage, waste management and remediation activities",12.422
+2003,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,81.231
+2004,NMVOC,"Agriculture, forestry and fishing",204.041
+2004,NMVOC,"Arts, entertainment and recreation",1.446
+2004,NMVOC,Construction,60.672
+2004,NMVOC,Education,1.527
+2004,NMVOC,"Electricity, gas, steam and air conditioning supply",54.106
+2004,NMVOC,Financial and insurance activities,0.212
+2004,NMVOC,Human health and social work activities,3.574
+2004,NMVOC,Information and communication,1.375
+2004,NMVOC,Manufacturing,336.933
+2004,NMVOC,Mining and quarrying,169.735
+2004,NMVOC,Other service activities,2.429
+2004,NMVOC,"Professional, scientific and technical activities",2.773
+2004,NMVOC,Public administration and defence; compulsory social security,5.422
+2004,NMVOC,Real estate activities,0.564
+2004,NMVOC,Transport and storage,58.083
+2004,NMVOC,"Water supply; sewerage, waste management and remediation activities",11.488
+2004,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,76.178
+2005,NMVOC,"Agriculture, forestry and fishing",202.041
+2005,NMVOC,"Arts, entertainment and recreation",1.35
+2005,NMVOC,Construction,56.393
+2005,NMVOC,Education,1.47
+2005,NMVOC,"Electricity, gas, steam and air conditioning supply",53.08
+2005,NMVOC,Financial and insurance activities,0.177
+2005,NMVOC,Human health and social work activities,3.806
+2005,NMVOC,Information and communication,1.17
+2005,NMVOC,Manufacturing,326.195
+2005,NMVOC,Mining and quarrying,145.791
+2005,NMVOC,Other service activities,2.262
+2005,NMVOC,"Professional, scientific and technical activities",2.376
+2005,NMVOC,Public administration and defence; compulsory social security,4.572
+2005,NMVOC,Real estate activities,0.493
+2005,NMVOC,Transport and storage,55.225
+2005,NMVOC,"Water supply; sewerage, waste management and remediation activities",10.989
+2005,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,68.789
+2006,NMVOC,"Agriculture, forestry and fishing",200.909
+2006,NMVOC,"Arts, entertainment and recreation",1.214
+2006,NMVOC,Construction,55.959
+2006,NMVOC,Education,1.5
+2006,NMVOC,"Electricity, gas, steam and air conditioning supply",50.175
+2006,NMVOC,Financial and insurance activities,0.148
+2006,NMVOC,Human health and social work activities,3.431
+2006,NMVOC,Information and communication,0.97
+2006,NMVOC,Manufacturing,322.058
+2006,NMVOC,Mining and quarrying,132.79
+2006,NMVOC,Other service activities,1.7
+2006,NMVOC,"Professional, scientific and technical activities",1.803
+2006,NMVOC,Public administration and defence; compulsory social security,4.349
+2006,NMVOC,Real estate activities,0.43
+2006,NMVOC,Transport and storage,45.231
+2006,NMVOC,"Water supply; sewerage, waste management and remediation activities",10.688
+2006,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,63.831
+2007,NMVOC,"Agriculture, forestry and fishing",201.294
+2007,NMVOC,"Arts, entertainment and recreation",1.106
+2007,NMVOC,Construction,53.999
+2007,NMVOC,Education,1.407
+2007,NMVOC,"Electricity, gas, steam and air conditioning supply",48.273
+2007,NMVOC,Financial and insurance activities,0.132
+2007,NMVOC,Human health and social work activities,3.379
+2007,NMVOC,Information and communication,0.844
+2007,NMVOC,Manufacturing,315.881
+2007,NMVOC,Mining and quarrying,127.054
+2007,NMVOC,Other service activities,1.539
+2007,NMVOC,"Professional, scientific and technical activities",1.516
+2007,NMVOC,Public administration and defence; compulsory social security,4.126
+2007,NMVOC,Real estate activities,0.386
+2007,NMVOC,Transport and storage,45.44
+2007,NMVOC,"Water supply; sewerage, waste management and remediation activities",10.04
+2007,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,58.636
+2008,NMVOC,"Agriculture, forestry and fishing",202.285
+2008,NMVOC,"Arts, entertainment and recreation",1
+2008,NMVOC,Construction,48.108
+2008,NMVOC,Education,1.157
+2008,NMVOC,"Electricity, gas, steam and air conditioning supply",44.261
+2008,NMVOC,Financial and insurance activities,0.118
+2008,NMVOC,Human health and social work activities,3.311
+2008,NMVOC,Information and communication,0.736
+2008,NMVOC,Manufacturing,288.281
+2008,NMVOC,Mining and quarrying,117.916
+2008,NMVOC,Other service activities,1.442
+2008,NMVOC,"Professional, scientific and technical activities",1.305
+2008,NMVOC,Public administration and defence; compulsory social security,3.577
+2008,NMVOC,Real estate activities,0.365
+2008,NMVOC,Transport and storage,42.511
+2008,NMVOC,"Water supply; sewerage, waste management and remediation activities",9.109
+2008,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,49.482
+2009,NMVOC,"Agriculture, forestry and fishing",199.207
+2009,NMVOC,"Arts, entertainment and recreation",0.876
+2009,NMVOC,Construction,39.772
+2009,NMVOC,Education,1.095
+2009,NMVOC,"Electricity, gas, steam and air conditioning supply",44.465
+2009,NMVOC,Financial and insurance activities,9.30E-02
+2009,NMVOC,Human health and social work activities,3.257
+2009,NMVOC,Information and communication,0.579
+2009,NMVOC,Manufacturing,257.569
+2009,NMVOC,Mining and quarrying,107.433
+2009,NMVOC,Other service activities,1.29
+2009,NMVOC,"Professional, scientific and technical activities",1.029
+2009,NMVOC,Public administration and defence; compulsory social security,3.277
+2009,NMVOC,Real estate activities,0.3
+2009,NMVOC,Transport and storage,36.947
+2009,NMVOC,"Water supply; sewerage, waste management and remediation activities",8.331
+2009,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,45.292
+2010,NMVOC,"Agriculture, forestry and fishing",198.272
+2010,NMVOC,"Arts, entertainment and recreation",0.829
+2010,NMVOC,Construction,39.11
+2010,NMVOC,Education,1.159
+2010,NMVOC,"Electricity, gas, steam and air conditioning supply",43.206
+2010,NMVOC,Financial and insurance activities,9.40E-02
+2010,NMVOC,Human health and social work activities,3.269
+2010,NMVOC,Information and communication,0.584
+2010,NMVOC,Manufacturing,258.562
+2010,NMVOC,Mining and quarrying,87.627
+2010,NMVOC,Other service activities,1.22
+2010,NMVOC,"Professional, scientific and technical activities",1.008
+2010,NMVOC,Public administration and defence; compulsory social security,3.249
+2010,NMVOC,Real estate activities,0.308
+2010,NMVOC,Transport and storage,39.351
+2010,NMVOC,"Water supply; sewerage, waste management and remediation activities",7.74
+2010,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,39.394
+2011,NMVOC,"Agriculture, forestry and fishing",196.772
+2011,NMVOC,"Arts, entertainment and recreation",0.744
+2011,NMVOC,Construction,38.793
+2011,NMVOC,Education,0.999
+2011,NMVOC,"Electricity, gas, steam and air conditioning supply",40.028
+2011,NMVOC,Financial and insurance activities,7.70E-02
+2011,NMVOC,Human health and social work activities,3.113
+2011,NMVOC,Information and communication,0.464
+2011,NMVOC,Manufacturing,262.696
+2011,NMVOC,Mining and quarrying,92.529
+2011,NMVOC,Other service activities,1.091
+2011,NMVOC,"Professional, scientific and technical activities",0.839
+2011,NMVOC,Public administration and defence; compulsory social security,2.835
+2011,NMVOC,Real estate activities,0.254
+2011,NMVOC,Transport and storage,37.136
+2011,NMVOC,"Water supply; sewerage, waste management and remediation activities",7.238
+2011,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,37.488
+2012,NMVOC,"Agriculture, forestry and fishing",197.573
+2012,NMVOC,"Arts, entertainment and recreation",0.707
+2012,NMVOC,Construction,38.011
+2012,NMVOC,Education,1.072
+2012,NMVOC,"Electricity, gas, steam and air conditioning supply",37.742
+2012,NMVOC,Financial and insurance activities,7.20E-02
+2012,NMVOC,Human health and social work activities,3.24
+2012,NMVOC,Information and communication,0.424
+2012,NMVOC,Manufacturing,260.874
+2012,NMVOC,Mining and quarrying,87.116
+2012,NMVOC,Other service activities,1.022
+2012,NMVOC,"Professional, scientific and technical activities",0.781
+2012,NMVOC,Public administration and defence; compulsory social security,2.717
+2012,NMVOC,Real estate activities,0.252
+2012,NMVOC,Transport and storage,35.061
+2012,NMVOC,"Water supply; sewerage, waste management and remediation activities",7.069
+2012,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,36.1
+2013,NMVOC,"Agriculture, forestry and fishing",198.084
+2013,NMVOC,"Arts, entertainment and recreation",0.663
+2013,NMVOC,Construction,37.999
+2013,NMVOC,Education,1.037
+2013,NMVOC,"Electricity, gas, steam and air conditioning supply",34.415
+2013,NMVOC,Financial and insurance activities,6.40E-02
+2013,NMVOC,Human health and social work activities,3.383
+2013,NMVOC,Information and communication,0.369
+2013,NMVOC,Manufacturing,253.916
+2013,NMVOC,Mining and quarrying,73.868
+2013,NMVOC,Other service activities,0.996
+2013,NMVOC,"Professional, scientific and technical activities",0.61
+2013,NMVOC,Public administration and defence; compulsory social security,2.44
+2013,NMVOC,Real estate activities,0.235
+2013,NMVOC,Transport and storage,32.81
+2013,NMVOC,"Water supply; sewerage, waste management and remediation activities",6.555
+2013,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,33.166
+2014,NMVOC,"Agriculture, forestry and fishing",205.727
+2014,NMVOC,"Arts, entertainment and recreation",0.606
+2014,NMVOC,Construction,40.321
+2014,NMVOC,Education,0.925
+2014,NMVOC,"Electricity, gas, steam and air conditioning supply",31.744
+2014,NMVOC,Financial and insurance activities,5.40E-02
+2014,NMVOC,Human health and social work activities,3.248
+2014,NMVOC,Information and communication,0.31
+2014,NMVOC,Manufacturing,250.616
+2014,NMVOC,Mining and quarrying,68.004
+2014,NMVOC,Other service activities,0.955
+2014,NMVOC,"Professional, scientific and technical activities",0.527
+2014,NMVOC,Public administration and defence; compulsory social security,2.123
+2014,NMVOC,Real estate activities,0.204
+2014,NMVOC,Transport and storage,33.698
+2014,NMVOC,"Water supply; sewerage, waste management and remediation activities",6.094
+2014,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,33.259
+2015,NMVOC,"Agriculture, forestry and fishing",209.278
+2015,NMVOC,"Arts, entertainment and recreation",0.602
+2015,NMVOC,Construction,41.911
+2015,NMVOC,Education,0.97
+2015,NMVOC,"Electricity, gas, steam and air conditioning supply",30.746
+2015,NMVOC,Financial and insurance activities,5.60E-02
+2015,NMVOC,Human health and social work activities,3.217
+2015,NMVOC,Information and communication,0.315
+2015,NMVOC,Manufacturing,251.092
+2015,NMVOC,Mining and quarrying,65.786
+2015,NMVOC,Other service activities,0.964
+2015,NMVOC,"Professional, scientific and technical activities",0.542
+2015,NMVOC,Public administration and defence; compulsory social security,1.916
+2015,NMVOC,Real estate activities,0.214
+2015,NMVOC,Transport and storage,35.077
+2015,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.898
+2015,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,31.982
+2016,NMVOC,"Agriculture, forestry and fishing",204.809
+2016,NMVOC,"Arts, entertainment and recreation",0.604
+2016,NMVOC,Construction,40.848
+2016,NMVOC,Education,0.975
+2016,NMVOC,"Electricity, gas, steam and air conditioning supply",29.09
+2016,NMVOC,Financial and insurance activities,5.50E-02
+2016,NMVOC,Human health and social work activities,3.338
+2016,NMVOC,Information and communication,0.31
+2016,NMVOC,Manufacturing,253.231
+2016,NMVOC,Mining and quarrying,54.758
+2016,NMVOC,Other service activities,0.969
+2016,NMVOC,"Professional, scientific and technical activities",0.536
+2016,NMVOC,Public administration and defence; compulsory social security,1.888
+2016,NMVOC,Real estate activities,0.215
+2016,NMVOC,Transport and storage,37.608
+2016,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.713
+2016,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,31.722
+2017,NMVOC,"Agriculture, forestry and fishing",211.095
+2017,NMVOC,"Arts, entertainment and recreation",0.595
+2017,NMVOC,Construction,39.636
+2017,NMVOC,Education,1.073
+2017,NMVOC,"Electricity, gas, steam and air conditioning supply",28.298
+2017,NMVOC,Financial and insurance activities,0.05
+2017,NMVOC,Human health and social work activities,3.363
+2017,NMVOC,Information and communication,0.275
+2017,NMVOC,Manufacturing,256.968
+2017,NMVOC,Mining and quarrying,59.51
+2017,NMVOC,Other service activities,0.937
+2017,NMVOC,"Professional, scientific and technical activities",0.477
+2017,NMVOC,Public administration and defence; compulsory social security,1.883
+2017,NMVOC,Real estate activities,0.198
+2017,NMVOC,Transport and storage,29.287
+2017,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.757
+2017,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,31.055
+2018,NMVOC,"Agriculture, forestry and fishing",214.48
+2018,NMVOC,"Arts, entertainment and recreation",0.591
+2018,NMVOC,Construction,39.079
+2018,NMVOC,Education,1.201
+2018,NMVOC,"Electricity, gas, steam and air conditioning supply",25.775
+2018,NMVOC,Financial and insurance activities,4.70E-02
+2018,NMVOC,Human health and social work activities,3.74
+2018,NMVOC,Information and communication,0.253
+2018,NMVOC,Manufacturing,256.479
+2018,NMVOC,Mining and quarrying,77.745
+2018,NMVOC,Other service activities,0.915
+2018,NMVOC,"Professional, scientific and technical activities",0.442
+2018,NMVOC,Public administration and defence; compulsory social security,2.016
+2018,NMVOC,Real estate activities,0.193
+2018,NMVOC,Transport and storage,31.6
+2018,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.756
+2018,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,30.692
+2019,NMVOC,"Agriculture, forestry and fishing",212.305
+2019,NMVOC,"Arts, entertainment and recreation",0.583
+2019,NMVOC,Construction,38.481
+2019,NMVOC,Education,1.05
+2019,NMVOC,"Electricity, gas, steam and air conditioning supply",24.667
+2019,NMVOC,Financial and insurance activities,4.60E-02
+2019,NMVOC,Human health and social work activities,3.651
+2019,NMVOC,Information and communication,0.243
+2019,NMVOC,Manufacturing,254.601
+2019,NMVOC,Mining and quarrying,72.839
+2019,NMVOC,Other service activities,1.011
+2019,NMVOC,"Professional, scientific and technical activities",0.449
+2019,NMVOC,Public administration and defence; compulsory social security,1.872
+2019,NMVOC,Real estate activities,0.189
+2019,NMVOC,Transport and storage,32.241
+2019,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.571
+2019,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,30.503
+2020,NMVOC,"Agriculture, forestry and fishing",208.995
+2020,NMVOC,"Arts, entertainment and recreation",0.533
+2020,NMVOC,Construction,30.62
+2020,NMVOC,Education,14.178
+2020,NMVOC,"Electricity, gas, steam and air conditioning supply",22.811
+2020,NMVOC,Financial and insurance activities,3.10E-02
+2020,NMVOC,Human health and social work activities,29.269
+2020,NMVOC,Information and communication,0.152
+2020,NMVOC,Manufacturing,232.484
+2020,NMVOC,Mining and quarrying,58.876
+2020,NMVOC,Other service activities,0.831
+2020,NMVOC,"Professional, scientific and technical activities",0.272
+2020,NMVOC,Public administration and defence; compulsory social security,7.819
+2020,NMVOC,Real estate activities,0.147
+2020,NMVOC,Transport and storage,31.694
+2020,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.252
+2020,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,31.181
+2021,NMVOC,"Agriculture, forestry and fishing",209.604
+2021,NMVOC,"Arts, entertainment and recreation",0.562
+2021,NMVOC,Construction,33.916
+2021,NMVOC,Education,4.356
+2021,NMVOC,"Electricity, gas, steam and air conditioning supply",22.102
+2021,NMVOC,Financial and insurance activities,3.60E-02
+2021,NMVOC,Human health and social work activities,13.442
+2021,NMVOC,Information and communication,0.192
+2021,NMVOC,Manufacturing,242.104
+2021,NMVOC,Mining and quarrying,50.016
+2021,NMVOC,Other service activities,0.875
+2021,NMVOC,"Professional, scientific and technical activities",0.33
+2021,NMVOC,Public administration and defence; compulsory social security,3.686
+2021,NMVOC,Real estate activities,0.164
+2021,NMVOC,Transport and storage,27.648
+2021,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.292
+2021,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,30.748
+2022,NMVOC,"Agriculture, forestry and fishing",208.759
+2022,NMVOC,"Arts, entertainment and recreation",0.561
+2022,NMVOC,Construction,33.858
+2022,NMVOC,Education,0.856
+2022,NMVOC,"Electricity, gas, steam and air conditioning supply",21.633
+2022,NMVOC,Financial and insurance activities,3.70E-02
+2022,NMVOC,Human health and social work activities,7.23
+2022,NMVOC,Information and communication,0.195
+2022,NMVOC,Manufacturing,240.325
+2022,NMVOC,Mining and quarrying,39.988
+2022,NMVOC,Other service activities,0.87
+2022,NMVOC,"Professional, scientific and technical activities",0.337
+2022,NMVOC,Public administration and defence; compulsory social security,1.695
+2022,NMVOC,Real estate activities,0.161
+2022,NMVOC,Transport and storage,35.25
+2022,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.291
+2022,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,29.008
+2023,NMVOC,"Agriculture, forestry and fishing",206.213
+2023,NMVOC,"Arts, entertainment and recreation",0.582
+2023,NMVOC,Construction,34.942
+2023,NMVOC,Education,0.83
+2023,NMVOC,"Electricity, gas, steam and air conditioning supply",19.84
+2023,NMVOC,Financial and insurance activities,3.60E-02
+2023,NMVOC,Human health and social work activities,7.109
+2023,NMVOC,Information and communication,0.196
+2023,NMVOC,Manufacturing,239.419
+2023,NMVOC,Mining and quarrying,37.291
+2023,NMVOC,Other service activities,0.872
+2023,NMVOC,"Professional, scientific and technical activities",0.333
+2023,NMVOC,Public administration and defence; compulsory social security,1.747
+2023,NMVOC,Real estate activities,0.157
+2023,NMVOC,Transport and storage,33.575
+2023,NMVOC,"Water supply; sewerage, waste management and remediation activities",5.21
+2023,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,27.304
+NA,NMVOC,"Agriculture, forestry and fishing",NA
+NA,NMVOC,"Arts, entertainment and recreation",NA
+NA,NMVOC,Construction,NA
+NA,NMVOC,Education,NA
+NA,NMVOC,"Electricity, gas, steam and air conditioning supply",NA
+NA,NMVOC,Financial and insurance activities,NA
+NA,NMVOC,Human health and social work activities,NA
+NA,NMVOC,Information and communication,NA
+NA,NMVOC,Manufacturing,NA
+NA,NMVOC,Mining and quarrying,NA
+NA,NMVOC,Other service activities,NA
+NA,NMVOC,"Professional, scientific and technical activities",NA
+NA,NMVOC,Public administration and defence; compulsory social security,NA
+NA,NMVOC,Real estate activities,NA
+NA,NMVOC,Transport and storage,NA
+NA,NMVOC,"Water supply; sewerage, waste management and remediation activities",NA
+NA,NMVOC,Wholesale and retail trade; repair of motor vehicles and motorcycles,NA
+1990,PM10,"Agriculture, forestry and fishing",42.204
+1990,PM10,"Arts, entertainment and recreation",0.581
+1990,PM10,Construction,58.409
+1990,PM10,Education,2.183
+1990,PM10,"Electricity, gas, steam and air conditioning supply",70.423
+1990,PM10,Financial and insurance activities,7.30E-02
+1990,PM10,Human health and social work activities,1.809
+1990,PM10,Information and communication,0.277
+1990,PM10,Manufacturing,59.29
+1990,PM10,Mining and quarrying,32.045
+1990,PM10,Other service activities,0.396
+1990,PM10,"Professional, scientific and technical activities",0.417
+1990,PM10,Public administration and defence; compulsory social security,3.251
+1990,PM10,Real estate activities,0.107
+1990,PM10,Transport and storage,95.861
+1990,PM10,"Water supply; sewerage, waste management and remediation activities",2.581
+1990,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.804
+1991,PM10,"Agriculture, forestry and fishing",39.952
+1991,PM10,"Arts, entertainment and recreation",0.567
+1991,PM10,Construction,58.883
+1991,PM10,Education,2.087
+1991,PM10,"Electricity, gas, steam and air conditioning supply",69.816
+1991,PM10,Financial and insurance activities,7.10E-02
+1991,PM10,Human health and social work activities,1.787
+1991,PM10,Information and communication,0.294
+1991,PM10,Manufacturing,59.203
+1991,PM10,Mining and quarrying,28.912
+1991,PM10,Other service activities,0.397
+1991,PM10,"Professional, scientific and technical activities",0.438
+1991,PM10,Public administration and defence; compulsory social security,3.305
+1991,PM10,Real estate activities,0.116
+1991,PM10,Transport and storage,91.773
+1991,PM10,"Water supply; sewerage, waste management and remediation activities",2.916
+1991,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.034
+1992,PM10,"Agriculture, forestry and fishing",36.061
+1992,PM10,"Arts, entertainment and recreation",0.478
+1992,PM10,Construction,49.98
+1992,PM10,Education,1.937
+1992,PM10,"Electricity, gas, steam and air conditioning supply",65.874
+1992,PM10,Financial and insurance activities,6.40E-02
+1992,PM10,Human health and social work activities,1.822
+1992,PM10,Information and communication,0.297
+1992,PM10,Manufacturing,59.971
+1992,PM10,Mining and quarrying,26.781
+1992,PM10,Other service activities,0.376
+1992,PM10,"Professional, scientific and technical activities",0.442
+1992,PM10,Public administration and defence; compulsory social security,3.294
+1992,PM10,Real estate activities,0.119
+1992,PM10,Transport and storage,77.947
+1992,PM10,"Water supply; sewerage, waste management and remediation activities",2.861
+1992,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.088
+1993,PM10,"Agriculture, forestry and fishing",25.475
+1993,PM10,"Arts, entertainment and recreation",0.498
+1993,PM10,Construction,45.899
+1993,PM10,Education,1.735
+1993,PM10,"Electricity, gas, steam and air conditioning supply",55.521
+1993,PM10,Financial and insurance activities,6.70E-02
+1993,PM10,Human health and social work activities,1.766
+1993,PM10,Information and communication,0.314
+1993,PM10,Manufacturing,57.605
+1993,PM10,Mining and quarrying,27.299
+1993,PM10,Other service activities,0.389
+1993,PM10,"Professional, scientific and technical activities",0.464
+1993,PM10,Public administration and defence; compulsory social security,3.214
+1993,PM10,Real estate activities,0.126
+1993,PM10,Transport and storage,73.714
+1993,PM10,"Water supply; sewerage, waste management and remediation activities",2.723
+1993,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.2
+1994,PM10,"Agriculture, forestry and fishing",25.855
+1994,PM10,"Arts, entertainment and recreation",0.479
+1994,PM10,Construction,39.133
+1994,PM10,Education,1.353
+1994,PM10,"Electricity, gas, steam and air conditioning supply",49.663
+1994,PM10,Financial and insurance activities,6.60E-02
+1994,PM10,Human health and social work activities,1.642
+1994,PM10,Information and communication,0.332
+1994,PM10,Manufacturing,56.373
+1994,PM10,Mining and quarrying,28.008
+1994,PM10,Other service activities,0.384
+1994,PM10,"Professional, scientific and technical activities",0.49
+1994,PM10,Public administration and defence; compulsory social security,2.883
+1994,PM10,Real estate activities,0.133
+1994,PM10,Transport and storage,70.905
+1994,PM10,"Water supply; sewerage, waste management and remediation activities",2.64
+1994,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.332
+1995,PM10,"Agriculture, forestry and fishing",24.79
+1995,PM10,"Arts, entertainment and recreation",0.459
+1995,PM10,Construction,40.895
+1995,PM10,Education,1.109
+1995,PM10,"Electricity, gas, steam and air conditioning supply",38.299
+1995,PM10,Financial and insurance activities,6.50E-02
+1995,PM10,Human health and social work activities,1.406
+1995,PM10,Information and communication,0.34
+1995,PM10,Manufacturing,52.966
+1995,PM10,Mining and quarrying,24.831
+1995,PM10,Other service activities,0.385
+1995,PM10,"Professional, scientific and technical activities",0.507
+1995,PM10,Public administration and defence; compulsory social security,2.61
+1995,PM10,Real estate activities,0.135
+1995,PM10,Transport and storage,71.214
+1995,PM10,"Water supply; sewerage, waste management and remediation activities",2.482
+1995,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.333
+1996,PM10,"Agriculture, forestry and fishing",25.011
+1996,PM10,"Arts, entertainment and recreation",0.416
+1996,PM10,Construction,45.949
+1996,PM10,Education,1.233
+1996,PM10,"Electricity, gas, steam and air conditioning supply",35.65
+1996,PM10,Financial and insurance activities,5.80E-02
+1996,PM10,Human health and social work activities,1.392
+1996,PM10,Information and communication,0.321
+1996,PM10,Manufacturing,48.461
+1996,PM10,Mining and quarrying,23.781
+1996,PM10,Other service activities,0.367
+1996,PM10,"Professional, scientific and technical activities",0.468
+1996,PM10,Public administration and defence; compulsory social security,2.56
+1996,PM10,Real estate activities,0.128
+1996,PM10,Transport and storage,77.088
+1996,PM10,"Water supply; sewerage, waste management and remediation activities",2.446
+1996,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.174
+1997,PM10,"Agriculture, forestry and fishing",26.135
+1997,PM10,"Arts, entertainment and recreation",0.37
+1997,PM10,Construction,44.223
+1997,PM10,Education,1.251
+1997,PM10,"Electricity, gas, steam and air conditioning supply",25.505
+1997,PM10,Financial and insurance activities,5.30E-02
+1997,PM10,Human health and social work activities,1.242
+1997,PM10,Information and communication,0.317
+1997,PM10,Manufacturing,46.27
+1997,PM10,Mining and quarrying,23.601
+1997,PM10,Other service activities,0.339
+1997,PM10,"Professional, scientific and technical activities",0.466
+1997,PM10,Public administration and defence; compulsory social security,2.404
+1997,PM10,Real estate activities,0.125
+1997,PM10,Transport and storage,96.938
+1997,PM10,"Water supply; sewerage, waste management and remediation activities",2.202
+1997,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,5.078
+1998,PM10,"Agriculture, forestry and fishing",24.882
+1998,PM10,"Arts, entertainment and recreation",0.421
+1998,PM10,Construction,37.472
+1998,PM10,Education,0.847
+1998,PM10,"Electricity, gas, steam and air conditioning supply",25.794
+1998,PM10,Financial and insurance activities,5.20E-02
+1998,PM10,Human health and social work activities,1.262
+1998,PM10,Information and communication,0.31
+1998,PM10,Manufacturing,41.62
+1998,PM10,Mining and quarrying,23.123
+1998,PM10,Other service activities,0.359
+1998,PM10,"Professional, scientific and technical activities",0.45
+1998,PM10,Public administration and defence; compulsory social security,2.124
+1998,PM10,Real estate activities,0.122
+1998,PM10,Transport and storage,98.525
+1998,PM10,"Water supply; sewerage, waste management and remediation activities",2.74
+1998,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.927
+1999,PM10,"Agriculture, forestry and fishing",24.192
+1999,PM10,"Arts, entertainment and recreation",0.403
+1999,PM10,Construction,39.419
+1999,PM10,Education,0.878
+1999,PM10,"Electricity, gas, steam and air conditioning supply",20.098
+1999,PM10,Financial and insurance activities,5.20E-02
+1999,PM10,Human health and social work activities,1.269
+1999,PM10,Information and communication,0.312
+1999,PM10,Manufacturing,39.173
+1999,PM10,Mining and quarrying,21.862
+1999,PM10,Other service activities,0.353
+1999,PM10,"Professional, scientific and technical activities",0.457
+1999,PM10,Public administration and defence; compulsory social security,2.153
+1999,PM10,Real estate activities,0.123
+1999,PM10,Transport and storage,84.164
+1999,PM10,"Water supply; sewerage, waste management and remediation activities",2.066
+1999,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.815
+2000,PM10,"Agriculture, forestry and fishing",23.85
+2000,PM10,"Arts, entertainment and recreation",0.39
+2000,PM10,Construction,40.248
+2000,PM10,Education,0.651
+2000,PM10,"Electricity, gas, steam and air conditioning supply",22.55
+2000,PM10,Financial and insurance activities,4.60E-02
+2000,PM10,Human health and social work activities,0.964
+2000,PM10,Information and communication,0.279
+2000,PM10,Manufacturing,34.436
+2000,PM10,Mining and quarrying,20.555
+2000,PM10,Other service activities,0.33
+2000,PM10,"Professional, scientific and technical activities",0.413
+2000,PM10,Public administration and defence; compulsory social security,2.003
+2000,PM10,Real estate activities,0.11
+2000,PM10,Transport and storage,79.815
+2000,PM10,"Water supply; sewerage, waste management and remediation activities",1.939
+2000,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.334
+2001,PM10,"Agriculture, forestry and fishing",23.12
+2001,PM10,"Arts, entertainment and recreation",0.459
+2001,PM10,Construction,50.22
+2001,PM10,Education,0.688
+2001,PM10,"Electricity, gas, steam and air conditioning supply",17.45
+2001,PM10,Financial and insurance activities,4.80E-02
+2001,PM10,Human health and social work activities,0.996
+2001,PM10,Information and communication,0.261
+2001,PM10,Manufacturing,32.674
+2001,PM10,Mining and quarrying,21.168
+2001,PM10,Other service activities,0.335
+2001,PM10,"Professional, scientific and technical activities",0.377
+2001,PM10,Public administration and defence; compulsory social security,1.855
+2001,PM10,Real estate activities,0.102
+2001,PM10,Transport and storage,89.526
+2001,PM10,"Water supply; sewerage, waste management and remediation activities",5.789
+2001,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.079
+2002,PM10,"Agriculture, forestry and fishing",22.835
+2002,PM10,"Arts, entertainment and recreation",0.414
+2002,PM10,Construction,42.427
+2002,PM10,Education,0.515
+2002,PM10,"Electricity, gas, steam and air conditioning supply",9.077
+2002,PM10,Financial and insurance activities,3.90E-02
+2002,PM10,Human health and social work activities,0.779
+2002,PM10,Information and communication,0.241
+2002,PM10,Manufacturing,29.704
+2002,PM10,Mining and quarrying,20.422
+2002,PM10,Other service activities,0.314
+2002,PM10,"Professional, scientific and technical activities",0.342
+2002,PM10,Public administration and defence; compulsory social security,1.592
+2002,PM10,Real estate activities,9.40E-02
+2002,PM10,Transport and storage,82.291
+2002,PM10,"Water supply; sewerage, waste management and remediation activities",1.668
+2002,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.892
+2003,PM10,"Agriculture, forestry and fishing",22.487
+2003,PM10,"Arts, entertainment and recreation",0.421
+2003,PM10,Construction,58.002
+2003,PM10,Education,0.384
+2003,PM10,"Electricity, gas, steam and air conditioning supply",8.329
+2003,PM10,Financial and insurance activities,3.90E-02
+2003,PM10,Human health and social work activities,0.731
+2003,PM10,Information and communication,0.237
+2003,PM10,Manufacturing,30.235
+2003,PM10,Mining and quarrying,19.86
+2003,PM10,Other service activities,0.313
+2003,PM10,"Professional, scientific and technical activities",0.335
+2003,PM10,Public administration and defence; compulsory social security,1.514
+2003,PM10,Real estate activities,9.30E-02
+2003,PM10,Transport and storage,81.466
+2003,PM10,"Water supply; sewerage, waste management and remediation activities",1.549
+2003,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.83
+2004,PM10,"Agriculture, forestry and fishing",22.517
+2004,PM10,"Arts, entertainment and recreation",0.444
+2004,PM10,Construction,42.732
+2004,PM10,Education,0.381
+2004,PM10,"Electricity, gas, steam and air conditioning supply",9.126
+2004,PM10,Financial and insurance activities,3.60E-02
+2004,PM10,Human health and social work activities,0.613
+2004,PM10,Information and communication,0.221
+2004,PM10,Manufacturing,28.719
+2004,PM10,Mining and quarrying,20.318
+2004,PM10,Other service activities,0.297
+2004,PM10,"Professional, scientific and technical activities",0.309
+2004,PM10,Public administration and defence; compulsory social security,1.503
+2004,PM10,Real estate activities,8.90E-02
+2004,PM10,Transport and storage,79.83
+2004,PM10,"Water supply; sewerage, waste management and remediation activities",1.584
+2004,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.654
+2005,PM10,"Agriculture, forestry and fishing",21.777
+2005,PM10,"Arts, entertainment and recreation",0.445
+2005,PM10,Construction,40.086
+2005,PM10,Education,0.452
+2005,PM10,"Electricity, gas, steam and air conditioning supply",9.983
+2005,PM10,Financial and insurance activities,3.40E-02
+2005,PM10,Human health and social work activities,0.752
+2005,PM10,Information and communication,0.22
+2005,PM10,Manufacturing,28.142
+2005,PM10,Mining and quarrying,19.455
+2005,PM10,Other service activities,0.3
+2005,PM10,"Professional, scientific and technical activities",0.305
+2005,PM10,Public administration and defence; compulsory social security,1.425
+2005,PM10,Real estate activities,8.90E-02
+2005,PM10,Transport and storage,75.263
+2005,PM10,"Water supply; sewerage, waste management and remediation activities",1.664
+2005,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.514
+2006,PM10,"Agriculture, forestry and fishing",21.655
+2006,PM10,"Arts, entertainment and recreation",0.258
+2006,PM10,Construction,34.213
+2006,PM10,Education,0.424
+2006,PM10,"Electricity, gas, steam and air conditioning supply",11.492
+2006,PM10,Financial and insurance activities,3.40E-02
+2006,PM10,Human health and social work activities,0.671
+2006,PM10,Information and communication,0.212
+2006,PM10,Manufacturing,27.347
+2006,PM10,Mining and quarrying,19.761
+2006,PM10,Other service activities,0.255
+2006,PM10,"Professional, scientific and technical activities",0.299
+2006,PM10,Public administration and defence; compulsory social security,1.368
+2006,PM10,Real estate activities,8.80E-02
+2006,PM10,Transport and storage,50.271
+2006,PM10,"Water supply; sewerage, waste management and remediation activities",1.539
+2006,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.42
+2007,PM10,"Agriculture, forestry and fishing",20.422
+2007,PM10,"Arts, entertainment and recreation",0.24
+2007,PM10,Construction,30.773
+2007,PM10,Education,0.403
+2007,PM10,"Electricity, gas, steam and air conditioning supply",10.222
+2007,PM10,Financial and insurance activities,3.50E-02
+2007,PM10,Human health and social work activities,0.626
+2007,PM10,Information and communication,0.212
+2007,PM10,Manufacturing,26.541
+2007,PM10,Mining and quarrying,19.743
+2007,PM10,Other service activities,0.22
+2007,PM10,"Professional, scientific and technical activities",0.302
+2007,PM10,Public administration and defence; compulsory social security,1.348
+2007,PM10,Real estate activities,8.80E-02
+2007,PM10,Transport and storage,40.202
+2007,PM10,"Water supply; sewerage, waste management and remediation activities",1.406
+2007,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.43
+2008,PM10,"Agriculture, forestry and fishing",21.205
+2008,PM10,"Arts, entertainment and recreation",0.222
+2008,PM10,Construction,24.586
+2008,PM10,Education,0.306
+2008,PM10,"Electricity, gas, steam and air conditioning supply",9.352
+2008,PM10,Financial and insurance activities,3.40E-02
+2008,PM10,Human health and social work activities,0.614
+2008,PM10,Information and communication,0.204
+2008,PM10,Manufacturing,23.981
+2008,PM10,Mining and quarrying,17.408
+2008,PM10,Other service activities,0.215
+2008,PM10,"Professional, scientific and technical activities",0.291
+2008,PM10,Public administration and defence; compulsory social security,1.193
+2008,PM10,Real estate activities,8.60E-02
+2008,PM10,Transport and storage,31.479
+2008,PM10,"Water supply; sewerage, waste management and remediation activities",1.213
+2008,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.127
+2009,PM10,"Agriculture, forestry and fishing",20.271
+2009,PM10,"Arts, entertainment and recreation",0.226
+2009,PM10,Construction,24.276
+2009,PM10,Education,0.281
+2009,PM10,"Electricity, gas, steam and air conditioning supply",6.59
+2009,PM10,Financial and insurance activities,3.10E-02
+2009,PM10,Human health and social work activities,0.571
+2009,PM10,Information and communication,0.185
+2009,PM10,Manufacturing,21.579
+2009,PM10,Mining and quarrying,14.708
+2009,PM10,Other service activities,0.197
+2009,PM10,"Professional, scientific and technical activities",0.253
+2009,PM10,Public administration and defence; compulsory social security,1.132
+2009,PM10,Real estate activities,0.08
+2009,PM10,Transport and storage,24.173
+2009,PM10,"Water supply; sewerage, waste management and remediation activities",1.142
+2009,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.127
+2010,PM10,"Agriculture, forestry and fishing",19.828
+2010,PM10,"Arts, entertainment and recreation",0.19
+2010,PM10,Construction,34.19
+2010,PM10,Education,0.284
+2010,PM10,"Electricity, gas, steam and air conditioning supply",6.822
+2010,PM10,Financial and insurance activities,2.90E-02
+2010,PM10,Human health and social work activities,0.567
+2010,PM10,Information and communication,0.177
+2010,PM10,Manufacturing,21.273
+2010,PM10,Mining and quarrying,14.171
+2010,PM10,Other service activities,0.174
+2010,PM10,"Professional, scientific and technical activities",0.239
+2010,PM10,Public administration and defence; compulsory social security,1.072
+2010,PM10,Real estate activities,7.70E-02
+2010,PM10,Transport and storage,21.878
+2010,PM10,"Water supply; sewerage, waste management and remediation activities",1.177
+2010,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.026
+2011,PM10,"Agriculture, forestry and fishing",19.246
+2011,PM10,"Arts, entertainment and recreation",0.173
+2011,PM10,Construction,28.271
+2011,PM10,Education,0.258
+2011,PM10,"Electricity, gas, steam and air conditioning supply",6.629
+2011,PM10,Financial and insurance activities,2.80E-02
+2011,PM10,Human health and social work activities,0.567
+2011,PM10,Information and communication,0.165
+2011,PM10,Manufacturing,20.692
+2011,PM10,Mining and quarrying,13.055
+2011,PM10,Other service activities,0.162
+2011,PM10,"Professional, scientific and technical activities",0.227
+2011,PM10,Public administration and defence; compulsory social security,0.985
+2011,PM10,Real estate activities,7.30E-02
+2011,PM10,Transport and storage,20.153
+2011,PM10,"Water supply; sewerage, waste management and remediation activities",1.13
+2011,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.824
+2012,PM10,"Agriculture, forestry and fishing",19.268
+2012,PM10,"Arts, entertainment and recreation",0.165
+2012,PM10,Construction,21.332
+2012,PM10,Education,0.253
+2012,PM10,"Electricity, gas, steam and air conditioning supply",9.173
+2012,PM10,Financial and insurance activities,2.50E-02
+2012,PM10,Human health and social work activities,0.513
+2012,PM10,Information and communication,0.151
+2012,PM10,Manufacturing,21.09
+2012,PM10,Mining and quarrying,11.533
+2012,PM10,Other service activities,0.151
+2012,PM10,"Professional, scientific and technical activities",0.21
+2012,PM10,Public administration and defence; compulsory social security,0.889
+2012,PM10,Real estate activities,7.10E-02
+2012,PM10,Transport and storage,19.934
+2012,PM10,"Water supply; sewerage, waste management and remediation activities",1.099
+2012,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.645
+2013,PM10,"Agriculture, forestry and fishing",18.626
+2013,PM10,"Arts, entertainment and recreation",0.158
+2013,PM10,Construction,28.31
+2013,PM10,Education,0.285
+2013,PM10,"Electricity, gas, steam and air conditioning supply",8.248
+2013,PM10,Financial and insurance activities,2.30E-02
+2013,PM10,Human health and social work activities,0.494
+2013,PM10,Information and communication,0.135
+2013,PM10,Manufacturing,23.289
+2013,PM10,Mining and quarrying,11.438
+2013,PM10,Other service activities,0.143
+2013,PM10,"Professional, scientific and technical activities",0.188
+2013,PM10,Public administration and defence; compulsory social security,0.789
+2013,PM10,Real estate activities,6.50E-02
+2013,PM10,Transport and storage,15.666
+2013,PM10,"Water supply; sewerage, waste management and remediation activities",1.066
+2013,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.44
+2014,PM10,"Agriculture, forestry and fishing",19.028
+2014,PM10,"Arts, entertainment and recreation",0.146
+2014,PM10,Construction,24.906
+2014,PM10,Education,0.27
+2014,PM10,"Electricity, gas, steam and air conditioning supply",6.472
+2014,PM10,Financial and insurance activities,2.10E-02
+2014,PM10,Human health and social work activities,0.485
+2014,PM10,Information and communication,0.126
+2014,PM10,Manufacturing,23.985
+2014,PM10,Mining and quarrying,12.377
+2014,PM10,Other service activities,0.136
+2014,PM10,"Professional, scientific and technical activities",0.179
+2014,PM10,Public administration and defence; compulsory social security,0.696
+2014,PM10,Real estate activities,6.20E-02
+2014,PM10,Transport and storage,17.7
+2014,PM10,"Water supply; sewerage, waste management and remediation activities",1.062
+2014,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.334
+2015,PM10,"Agriculture, forestry and fishing",18.947
+2015,PM10,"Arts, entertainment and recreation",0.128
+2015,PM10,Construction,25.621
+2015,PM10,Education,0.236
+2015,PM10,"Electricity, gas, steam and air conditioning supply",4.951
+2015,PM10,Financial and insurance activities,1.70E-02
+2015,PM10,Human health and social work activities,0.269
+2015,PM10,Information and communication,0.113
+2015,PM10,Manufacturing,22.313
+2015,PM10,Mining and quarrying,12.14
+2015,PM10,Other service activities,0.152
+2015,PM10,"Professional, scientific and technical activities",0.157
+2015,PM10,Public administration and defence; compulsory social security,0.548
+2015,PM10,Real estate activities,5.60E-02
+2015,PM10,Transport and storage,19.716
+2015,PM10,"Water supply; sewerage, waste management and remediation activities",1.099
+2015,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.222
+2016,PM10,"Agriculture, forestry and fishing",18.97
+2016,PM10,"Arts, entertainment and recreation",0.136
+2016,PM10,Construction,31.157
+2016,PM10,Education,0.262
+2016,PM10,"Electricity, gas, steam and air conditioning supply",3.061
+2016,PM10,Financial and insurance activities,1.70E-02
+2016,PM10,Human health and social work activities,0.316
+2016,PM10,Information and communication,0.111
+2016,PM10,Manufacturing,19.387
+2016,PM10,Mining and quarrying,12.234
+2016,PM10,Other service activities,0.153
+2016,PM10,"Professional, scientific and technical activities",0.157
+2016,PM10,Public administration and defence; compulsory social security,0.547
+2016,PM10,Real estate activities,5.60E-02
+2016,PM10,Transport and storage,21.414
+2016,PM10,"Water supply; sewerage, waste management and remediation activities",1.112
+2016,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.158
+2017,PM10,"Agriculture, forestry and fishing",19.152
+2017,PM10,"Arts, entertainment and recreation",0.152
+2017,PM10,Construction,36.327
+2017,PM10,Education,0.279
+2017,PM10,"Electricity, gas, steam and air conditioning supply",2.625
+2017,PM10,Financial and insurance activities,1.70E-02
+2017,PM10,Human health and social work activities,0.256
+2017,PM10,Information and communication,0.107
+2017,PM10,Manufacturing,19.564
+2017,PM10,Mining and quarrying,12.349
+2017,PM10,Other service activities,0.15
+2017,PM10,"Professional, scientific and technical activities",0.147
+2017,PM10,Public administration and defence; compulsory social security,0.533
+2017,PM10,Real estate activities,5.30E-02
+2017,PM10,Transport and storage,14.023
+2017,PM10,"Water supply; sewerage, waste management and remediation activities",1.14
+2017,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.034
+2018,PM10,"Agriculture, forestry and fishing",19.069
+2018,PM10,"Arts, entertainment and recreation",0.157
+2018,PM10,Construction,31.407
+2018,PM10,Education,0.287
+2018,PM10,"Electricity, gas, steam and air conditioning supply",2.217
+2018,PM10,Financial and insurance activities,1.60E-02
+2018,PM10,Human health and social work activities,0.27
+2018,PM10,Information and communication,0.101
+2018,PM10,Manufacturing,19.436
+2018,PM10,Mining and quarrying,12.714
+2018,PM10,Other service activities,0.154
+2018,PM10,"Professional, scientific and technical activities",0.139
+2018,PM10,Public administration and defence; compulsory social security,0.536
+2018,PM10,Real estate activities,0.05
+2018,PM10,Transport and storage,15.962
+2018,PM10,"Water supply; sewerage, waste management and remediation activities",1.158
+2018,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.899
+2019,PM10,"Agriculture, forestry and fishing",18.866
+2019,PM10,"Arts, entertainment and recreation",0.148
+2019,PM10,Construction,31.509
+2019,PM10,Education,0.251
+2019,PM10,"Electricity, gas, steam and air conditioning supply",1.755
+2019,PM10,Financial and insurance activities,1.60E-02
+2019,PM10,Human health and social work activities,0.251
+2019,PM10,Information and communication,9.70E-02
+2019,PM10,Manufacturing,17.865
+2019,PM10,Mining and quarrying,12.422
+2019,PM10,Other service activities,0.144
+2019,PM10,"Professional, scientific and technical activities",0.135
+2019,PM10,Public administration and defence; compulsory social security,0.509
+2019,PM10,Real estate activities,4.90E-02
+2019,PM10,Transport and storage,17.314
+2019,PM10,"Water supply; sewerage, waste management and remediation activities",1.112
+2019,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.836
+2020,PM10,"Agriculture, forestry and fishing",18.045
+2020,PM10,"Arts, entertainment and recreation",0.134
+2020,PM10,Construction,25.087
+2020,PM10,Education,0.228
+2020,PM10,"Electricity, gas, steam and air conditioning supply",1.608
+2020,PM10,Financial and insurance activities,1.20E-02
+2020,PM10,Human health and social work activities,0.254
+2020,PM10,Information and communication,7.30E-02
+2020,PM10,Manufacturing,17.241
+2020,PM10,Mining and quarrying,11.014
+2020,PM10,Other service activities,0.131
+2020,PM10,"Professional, scientific and technical activities",9.50E-02
+2020,PM10,Public administration and defence; compulsory social security,0.401
+2020,PM10,Real estate activities,3.80E-02
+2020,PM10,Transport and storage,12.399
+2020,PM10,"Water supply; sewerage, waste management and remediation activities",1.125
+2020,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.479
+2021,PM10,"Agriculture, forestry and fishing",18.533
+2021,PM10,"Arts, entertainment and recreation",0.136
+2021,PM10,Construction,28.01
+2021,PM10,Education,0.215
+2021,PM10,"Electricity, gas, steam and air conditioning supply",1.414
+2021,PM10,Financial and insurance activities,1.20E-02
+2021,PM10,Human health and social work activities,0.252
+2021,PM10,Information and communication,7.90E-02
+2021,PM10,Manufacturing,17.289
+2021,PM10,Mining and quarrying,11.458
+2021,PM10,Other service activities,0.132
+2021,PM10,"Professional, scientific and technical activities",0.103
+2021,PM10,Public administration and defence; compulsory social security,0.482
+2021,PM10,Real estate activities,0.04
+2021,PM10,Transport and storage,9.766
+2021,PM10,"Water supply; sewerage, waste management and remediation activities",1.154
+2021,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.625
+2022,PM10,"Agriculture, forestry and fishing",17.977
+2022,PM10,"Arts, entertainment and recreation",0.137
+2022,PM10,Construction,29.626
+2022,PM10,Education,0.206
+2022,PM10,"Electricity, gas, steam and air conditioning supply",1.275
+2022,PM10,Financial and insurance activities,1.20E-02
+2022,PM10,Human health and social work activities,0.239
+2022,PM10,Information and communication,8.40E-02
+2022,PM10,Manufacturing,16.839
+2022,PM10,Mining and quarrying,11.135
+2022,PM10,Other service activities,0.132
+2022,PM10,"Professional, scientific and technical activities",0.11
+2022,PM10,Public administration and defence; compulsory social security,0.451
+2022,PM10,Real estate activities,4.20E-02
+2022,PM10,Transport and storage,13.419
+2022,PM10,"Water supply; sewerage, waste management and remediation activities",1.166
+2022,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.67
+2023,PM10,"Agriculture, forestry and fishing",17.566
+2023,PM10,"Arts, entertainment and recreation",0.142
+2023,PM10,Construction,30.287
+2023,PM10,Education,0.205
+2023,PM10,"Electricity, gas, steam and air conditioning supply",1.192
+2023,PM10,Financial and insurance activities,1.20E-02
+2023,PM10,Human health and social work activities,0.237
+2023,PM10,Information and communication,8.40E-02
+2023,PM10,Manufacturing,16.805
+2023,PM10,Mining and quarrying,10.21
+2023,PM10,Other service activities,0.134
+2023,PM10,"Professional, scientific and technical activities",0.109
+2023,PM10,Public administration and defence; compulsory social security,0.464
+2023,PM10,Real estate activities,4.20E-02
+2023,PM10,Transport and storage,12.58
+2023,PM10,"Water supply; sewerage, waste management and remediation activities",1.18
+2023,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.674
+NA,PM10,"Agriculture, forestry and fishing",NA
+NA,PM10,"Arts, entertainment and recreation",NA
+NA,PM10,Construction,NA
+NA,PM10,Education,NA
+NA,PM10,"Electricity, gas, steam and air conditioning supply",NA
+NA,PM10,Financial and insurance activities,NA
+NA,PM10,Human health and social work activities,NA
+NA,PM10,Information and communication,NA
+NA,PM10,Manufacturing,NA
+NA,PM10,Mining and quarrying,NA
+NA,PM10,Other service activities,NA
+NA,PM10,"Professional, scientific and technical activities",NA
+NA,PM10,Public administration and defence; compulsory social security,NA
+NA,PM10,Real estate activities,NA
+NA,PM10,Transport and storage,NA
+NA,PM10,"Water supply; sewerage, waste management and remediation activities",NA
+NA,PM10,Wholesale and retail trade; repair of motor vehicles and motorcycles,NA
+1990,PM2.5,"Agriculture, forestry and fishing",28.374
+1990,PM2.5,"Arts, entertainment and recreation",0.519
+1990,PM2.5,Construction,14.279
+1990,PM2.5,Education,1.96
+1990,PM2.5,"Electricity, gas, steam and air conditioning supply",31.744
+1990,PM2.5,Financial and insurance activities,6.10E-02
+1990,PM2.5,Human health and social work activities,1.516
+1990,PM2.5,Information and communication,0.225
+1990,PM2.5,Manufacturing,42.973
+1990,PM2.5,Mining and quarrying,12.624
+1990,PM2.5,Other service activities,0.349
+1990,PM2.5,"Professional, scientific and technical activities",0.329
+1990,PM2.5,Public administration and defence; compulsory social security,2.871
+1990,PM2.5,Real estate activities,8.70E-02
+1990,PM2.5,Transport and storage,90.313
+1990,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.211
+1990,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.979
+1991,PM2.5,"Agriculture, forestry and fishing",26.328
+1991,PM2.5,"Arts, entertainment and recreation",0.508
+1991,PM2.5,Construction,13.645
+1991,PM2.5,Education,1.872
+1991,PM2.5,"Electricity, gas, steam and air conditioning supply",31.432
+1991,PM2.5,Financial and insurance activities,0.06
+1991,PM2.5,Human health and social work activities,1.495
+1991,PM2.5,Information and communication,0.243
+1991,PM2.5,Manufacturing,43.296
+1991,PM2.5,Mining and quarrying,11.067
+1991,PM2.5,Other service activities,0.35
+1991,PM2.5,"Professional, scientific and technical activities",0.35
+1991,PM2.5,Public administration and defence; compulsory social security,2.919
+1991,PM2.5,Real estate activities,9.60E-02
+1991,PM2.5,Transport and storage,86.441
+1991,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.467
+1991,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.236
+1992,PM2.5,"Agriculture, forestry and fishing",22.757
+1992,PM2.5,"Arts, entertainment and recreation",0.426
+1992,PM2.5,Construction,12.75
+1992,PM2.5,Education,1.735
+1992,PM2.5,"Electricity, gas, steam and air conditioning supply",29.803
+1992,PM2.5,Financial and insurance activities,5.40E-02
+1992,PM2.5,Human health and social work activities,1.513
+1992,PM2.5,Information and communication,0.247
+1992,PM2.5,Manufacturing,44.501
+1992,PM2.5,Mining and quarrying,9.944
+1992,PM2.5,Other service activities,0.332
+1992,PM2.5,"Professional, scientific and technical activities",0.356
+1992,PM2.5,Public administration and defence; compulsory social security,2.9
+1992,PM2.5,Real estate activities,9.90E-02
+1992,PM2.5,Transport and storage,73.355
+1992,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.417
+1992,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.32
+1993,PM2.5,"Agriculture, forestry and fishing",13.056
+1993,PM2.5,"Arts, entertainment and recreation",0.446
+1993,PM2.5,Construction,12.339
+1993,PM2.5,Education,1.551
+1993,PM2.5,"Electricity, gas, steam and air conditioning supply",25.441
+1993,PM2.5,Financial and insurance activities,5.60E-02
+1993,PM2.5,Human health and social work activities,1.459
+1993,PM2.5,Information and communication,0.264
+1993,PM2.5,Manufacturing,42.342
+1993,PM2.5,Mining and quarrying,10.8
+1993,PM2.5,Other service activities,0.345
+1993,PM2.5,"Professional, scientific and technical activities",0.377
+1993,PM2.5,Public administration and defence; compulsory social security,2.823
+1993,PM2.5,Real estate activities,0.106
+1993,PM2.5,Transport and storage,69.324
+1993,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.302
+1993,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.455
+1994,PM2.5,"Agriculture, forestry and fishing",13.411
+1994,PM2.5,"Arts, entertainment and recreation",0.429
+1994,PM2.5,Construction,11.715
+1994,PM2.5,Education,1.201
+1994,PM2.5,"Electricity, gas, steam and air conditioning supply",22.931
+1994,PM2.5,Financial and insurance activities,5.50E-02
+1994,PM2.5,Human health and social work activities,1.342
+1994,PM2.5,Information and communication,0.279
+1994,PM2.5,Manufacturing,40.776
+1994,PM2.5,Mining and quarrying,11.114
+1994,PM2.5,Other service activities,0.34
+1994,PM2.5,"Professional, scientific and technical activities",0.399
+1994,PM2.5,Public administration and defence; compulsory social security,2.545
+1994,PM2.5,Real estate activities,0.112
+1994,PM2.5,Transport and storage,66.617
+1994,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.23
+1994,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.571
+1995,PM2.5,"Agriculture, forestry and fishing",12.101
+1995,PM2.5,"Arts, entertainment and recreation",0.41
+1995,PM2.5,Construction,11.515
+1995,PM2.5,Education,0.982
+1995,PM2.5,"Electricity, gas, steam and air conditioning supply",17.944
+1995,PM2.5,Financial and insurance activities,5.50E-02
+1995,PM2.5,Human health and social work activities,1.153
+1995,PM2.5,Information and communication,0.285
+1995,PM2.5,Manufacturing,37.897
+1995,PM2.5,Mining and quarrying,8.67
+1995,PM2.5,Other service activities,0.34
+1995,PM2.5,"Professional, scientific and technical activities",0.414
+1995,PM2.5,Public administration and defence; compulsory social security,2.323
+1995,PM2.5,Real estate activities,0.114
+1995,PM2.5,Transport and storage,66.861
+1995,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.104
+1995,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.562
+1996,PM2.5,"Agriculture, forestry and fishing",11.787
+1996,PM2.5,"Arts, entertainment and recreation",0.371
+1996,PM2.5,Construction,11.719
+1996,PM2.5,Education,1.096
+1996,PM2.5,"Electricity, gas, steam and air conditioning supply",16.906
+1996,PM2.5,Financial and insurance activities,4.90E-02
+1996,PM2.5,Human health and social work activities,1.15
+1996,PM2.5,Information and communication,0.269
+1996,PM2.5,Manufacturing,33.899
+1996,PM2.5,Mining and quarrying,8.889
+1996,PM2.5,Other service activities,0.323
+1996,PM2.5,"Professional, scientific and technical activities",0.382
+1996,PM2.5,Public administration and defence; compulsory social security,2.281
+1996,PM2.5,Real estate activities,0.108
+1996,PM2.5,Transport and storage,72.383
+1996,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.066
+1996,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.435
+1997,PM2.5,"Agriculture, forestry and fishing",11.935
+1997,PM2.5,"Arts, entertainment and recreation",0.329
+1997,PM2.5,Construction,11.491
+1997,PM2.5,Education,1.116
+1997,PM2.5,"Electricity, gas, steam and air conditioning supply",13.775
+1997,PM2.5,Financial and insurance activities,4.40E-02
+1997,PM2.5,Human health and social work activities,1.04
+1997,PM2.5,Information and communication,0.265
+1997,PM2.5,Manufacturing,32.257
+1997,PM2.5,Mining and quarrying,8.69
+1997,PM2.5,Other service activities,0.298
+1997,PM2.5,"Professional, scientific and technical activities",0.382
+1997,PM2.5,Public administration and defence; compulsory social security,2.163
+1997,PM2.5,Real estate activities,0.106
+1997,PM2.5,Transport and storage,91.13
+1997,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.854
+1997,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.351
+1998,PM2.5,"Agriculture, forestry and fishing",11.239
+1998,PM2.5,"Arts, entertainment and recreation",0.372
+1998,PM2.5,Construction,10.641
+1998,PM2.5,Education,0.75
+1998,PM2.5,"Electricity, gas, steam and air conditioning supply",12.607
+1998,PM2.5,Financial and insurance activities,4.30E-02
+1998,PM2.5,Human health and social work activities,1.072
+1998,PM2.5,Information and communication,0.258
+1998,PM2.5,Manufacturing,28.18
+1998,PM2.5,Mining and quarrying,8.514
+1998,PM2.5,Other service activities,0.313
+1998,PM2.5,"Professional, scientific and technical activities",0.365
+1998,PM2.5,Public administration and defence; compulsory social security,1.904
+1998,PM2.5,Real estate activities,0.103
+1998,PM2.5,Transport and storage,92.562
+1998,PM2.5,"Water supply; sewerage, waste management and remediation activities",2.328
+1998,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.199
+1999,PM2.5,"Agriculture, forestry and fishing",11.139
+1999,PM2.5,"Arts, entertainment and recreation",0.352
+1999,PM2.5,Construction,10.424
+1999,PM2.5,Education,0.774
+1999,PM2.5,"Electricity, gas, steam and air conditioning supply",10.088
+1999,PM2.5,Financial and insurance activities,4.30E-02
+1999,PM2.5,Human health and social work activities,1.088
+1999,PM2.5,Information and communication,0.259
+1999,PM2.5,Manufacturing,26.993
+1999,PM2.5,Mining and quarrying,7.522
+1999,PM2.5,Other service activities,0.307
+1999,PM2.5,"Professional, scientific and technical activities",0.37
+1999,PM2.5,Public administration and defence; compulsory social security,1.923
+1999,PM2.5,Real estate activities,0.103
+1999,PM2.5,Transport and storage,78.899
+1999,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.733
+1999,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,4.089
+2000,PM2.5,"Agriculture, forestry and fishing",10.518
+2000,PM2.5,"Arts, entertainment and recreation",0.337
+2000,PM2.5,Construction,10.076
+2000,PM2.5,Education,0.57
+2000,PM2.5,"Electricity, gas, steam and air conditioning supply",11.031
+2000,PM2.5,Financial and insurance activities,3.70E-02
+2000,PM2.5,Human health and social work activities,0.84
+2000,PM2.5,Information and communication,0.225
+2000,PM2.5,Manufacturing,23.456
+2000,PM2.5,Mining and quarrying,6.662
+2000,PM2.5,Other service activities,0.282
+2000,PM2.5,"Professional, scientific and technical activities",0.326
+2000,PM2.5,Public administration and defence; compulsory social security,1.794
+2000,PM2.5,Real estate activities,0.09
+2000,PM2.5,Transport and storage,74.709
+2000,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.623
+2000,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.62
+2001,PM2.5,"Agriculture, forestry and fishing",9.929
+2001,PM2.5,"Arts, entertainment and recreation",0.397
+2001,PM2.5,Construction,10.76
+2001,PM2.5,Education,0.602
+2001,PM2.5,"Electricity, gas, steam and air conditioning supply",8.689
+2001,PM2.5,Financial and insurance activities,3.80E-02
+2001,PM2.5,Human health and social work activities,0.859
+2001,PM2.5,Information and communication,0.209
+2001,PM2.5,Manufacturing,22.245
+2001,PM2.5,Mining and quarrying,6.921
+2001,PM2.5,Other service activities,0.286
+2001,PM2.5,"Professional, scientific and technical activities",0.296
+2001,PM2.5,Public administration and defence; compulsory social security,1.651
+2001,PM2.5,Real estate activities,8.30E-02
+2001,PM2.5,Transport and storage,83.895
+2001,PM2.5,"Water supply; sewerage, waste management and remediation activities",4.913
+2001,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.401
+2002,PM2.5,"Agriculture, forestry and fishing",9.835
+2002,PM2.5,"Arts, entertainment and recreation",0.357
+2002,PM2.5,Construction,9.562
+2002,PM2.5,Education,0.453
+2002,PM2.5,"Electricity, gas, steam and air conditioning supply",4.894
+2002,PM2.5,Financial and insurance activities,3.10E-02
+2002,PM2.5,Human health and social work activities,0.677
+2002,PM2.5,Information and communication,0.192
+2002,PM2.5,Manufacturing,20.095
+2002,PM2.5,Mining and quarrying,6.47
+2002,PM2.5,Other service activities,0.268
+2002,PM2.5,"Professional, scientific and technical activities",0.266
+2002,PM2.5,Public administration and defence; compulsory social security,1.426
+2002,PM2.5,Real estate activities,7.60E-02
+2002,PM2.5,Transport and storage,77.008
+2002,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.38
+2002,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.224
+2003,PM2.5,"Agriculture, forestry and fishing",9.615
+2003,PM2.5,"Arts, entertainment and recreation",0.364
+2003,PM2.5,Construction,10.801
+2003,PM2.5,Education,0.338
+2003,PM2.5,"Electricity, gas, steam and air conditioning supply",4.602
+2003,PM2.5,Financial and insurance activities,3.10E-02
+2003,PM2.5,Human health and social work activities,0.637
+2003,PM2.5,Information and communication,0.191
+2003,PM2.5,Manufacturing,20.782
+2003,PM2.5,Mining and quarrying,6.259
+2003,PM2.5,Other service activities,0.268
+2003,PM2.5,"Professional, scientific and technical activities",0.265
+2003,PM2.5,Public administration and defence; compulsory social security,1.362
+2003,PM2.5,Real estate activities,7.60E-02
+2003,PM2.5,Transport and storage,76.182
+2003,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.277
+2003,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.174
+2004,PM2.5,"Agriculture, forestry and fishing",9.39
+2004,PM2.5,"Arts, entertainment and recreation",0.383
+2004,PM2.5,Construction,9.105
+2004,PM2.5,Education,0.337
+2004,PM2.5,"Electricity, gas, steam and air conditioning supply",5.105
+2004,PM2.5,Financial and insurance activities,2.90E-02
+2004,PM2.5,Human health and social work activities,0.536
+2004,PM2.5,Information and communication,0.177
+2004,PM2.5,Manufacturing,19.632
+2004,PM2.5,Mining and quarrying,6.339
+2004,PM2.5,Other service activities,0.253
+2004,PM2.5,"Professional, scientific and technical activities",0.243
+2004,PM2.5,Public administration and defence; compulsory social security,1.361
+2004,PM2.5,Real estate activities,7.20E-02
+2004,PM2.5,Transport and storage,74.602
+2004,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.295
+2004,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,3.012
+2005,PM2.5,"Agriculture, forestry and fishing",9.058
+2005,PM2.5,"Arts, entertainment and recreation",0.382
+2005,PM2.5,Construction,8.432
+2005,PM2.5,Education,0.398
+2005,PM2.5,"Electricity, gas, steam and air conditioning supply",6.2
+2005,PM2.5,Financial and insurance activities,2.70E-02
+2005,PM2.5,Human health and social work activities,0.662
+2005,PM2.5,Information and communication,0.174
+2005,PM2.5,Manufacturing,19.286
+2005,PM2.5,Mining and quarrying,6.13
+2005,PM2.5,Other service activities,0.254
+2005,PM2.5,"Professional, scientific and technical activities",0.239
+2005,PM2.5,Public administration and defence; compulsory social security,1.284
+2005,PM2.5,Real estate activities,7.10E-02
+2005,PM2.5,Transport and storage,70.252
+2005,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.349
+2005,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.881
+2006,PM2.5,"Agriculture, forestry and fishing",8.666
+2006,PM2.5,"Arts, entertainment and recreation",0.22
+2006,PM2.5,Construction,7.613
+2006,PM2.5,Education,0.375
+2006,PM2.5,"Electricity, gas, steam and air conditioning supply",6.856
+2006,PM2.5,Financial and insurance activities,2.80E-02
+2006,PM2.5,Human health and social work activities,0.59
+2006,PM2.5,Information and communication,0.169
+2006,PM2.5,Manufacturing,18.585
+2006,PM2.5,Mining and quarrying,5.903
+2006,PM2.5,Other service activities,0.214
+2006,PM2.5,"Professional, scientific and technical activities",0.236
+2006,PM2.5,Public administration and defence; compulsory social security,1.237
+2006,PM2.5,Real estate activities,7.10E-02
+2006,PM2.5,Transport and storage,46.499
+2006,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.251
+2006,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.784
+2007,PM2.5,"Agriculture, forestry and fishing",8.08
+2007,PM2.5,"Arts, entertainment and recreation",0.204
+2007,PM2.5,Construction,7.23
+2007,PM2.5,Education,0.356
+2007,PM2.5,"Electricity, gas, steam and air conditioning supply",6.528
+2007,PM2.5,Financial and insurance activities,2.80E-02
+2007,PM2.5,Human health and social work activities,0.548
+2007,PM2.5,Information and communication,0.166
+2007,PM2.5,Manufacturing,17.998
+2007,PM2.5,Mining and quarrying,5.627
+2007,PM2.5,Other service activities,0.183
+2007,PM2.5,"Professional, scientific and technical activities",0.236
+2007,PM2.5,Public administration and defence; compulsory social security,1.223
+2007,PM2.5,Real estate activities,7.00E-02
+2007,PM2.5,Transport and storage,36.903
+2007,PM2.5,"Water supply; sewerage, waste management and remediation activities",1.132
+2007,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.757
+2008,PM2.5,"Agriculture, forestry and fishing",8.354
+2008,PM2.5,"Arts, entertainment and recreation",0.187
+2008,PM2.5,Construction,5.915
+2008,PM2.5,Education,0.27
+2008,PM2.5,"Electricity, gas, steam and air conditioning supply",6.172
+2008,PM2.5,Financial and insurance activities,2.70E-02
+2008,PM2.5,Human health and social work activities,0.537
+2008,PM2.5,Information and communication,0.161
+2008,PM2.5,Manufacturing,16.234
+2008,PM2.5,Mining and quarrying,4.987
+2008,PM2.5,Other service activities,0.177
+2008,PM2.5,"Professional, scientific and technical activities",0.229
+2008,PM2.5,Public administration and defence; compulsory social security,1.071
+2008,PM2.5,Real estate activities,6.90E-02
+2008,PM2.5,Transport and storage,28.637
+2008,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.965
+2008,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.474
+2009,PM2.5,"Agriculture, forestry and fishing",7.659
+2009,PM2.5,"Arts, entertainment and recreation",0.19
+2009,PM2.5,Construction,5.218
+2009,PM2.5,Education,0.247
+2009,PM2.5,"Electricity, gas, steam and air conditioning supply",4.423
+2009,PM2.5,Financial and insurance activities,2.50E-02
+2009,PM2.5,Human health and social work activities,0.501
+2009,PM2.5,Information and communication,0.145
+2009,PM2.5,Manufacturing,14.457
+2009,PM2.5,Mining and quarrying,4.519
+2009,PM2.5,Other service activities,0.161
+2009,PM2.5,"Professional, scientific and technical activities",0.197
+2009,PM2.5,Public administration and defence; compulsory social security,1.008
+2009,PM2.5,Real estate activities,6.40E-02
+2009,PM2.5,Transport and storage,21.783
+2009,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.905
+2009,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.429
+2010,PM2.5,"Agriculture, forestry and fishing",7.221
+2010,PM2.5,"Arts, entertainment and recreation",0.158
+2010,PM2.5,Construction,6.259
+2010,PM2.5,Education,0.251
+2010,PM2.5,"Electricity, gas, steam and air conditioning supply",4.51
+2010,PM2.5,Financial and insurance activities,2.30E-02
+2010,PM2.5,Human health and social work activities,0.499
+2010,PM2.5,Information and communication,0.137
+2010,PM2.5,Manufacturing,14.584
+2010,PM2.5,Mining and quarrying,4.382
+2010,PM2.5,Other service activities,0.142
+2010,PM2.5,"Professional, scientific and technical activities",0.185
+2010,PM2.5,Public administration and defence; compulsory social security,0.955
+2010,PM2.5,Real estate activities,6.10E-02
+2010,PM2.5,Transport and storage,19.579
+2010,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.928
+2010,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.331
+2011,PM2.5,"Agriculture, forestry and fishing",6.577
+2011,PM2.5,"Arts, entertainment and recreation",0.143
+2011,PM2.5,Construction,5.242
+2011,PM2.5,Education,0.226
+2011,PM2.5,"Electricity, gas, steam and air conditioning supply",4.328
+2011,PM2.5,Financial and insurance activities,2.20E-02
+2011,PM2.5,Human health and social work activities,0.494
+2011,PM2.5,Information and communication,0.126
+2011,PM2.5,Manufacturing,14.077
+2011,PM2.5,Mining and quarrying,3.913
+2011,PM2.5,Other service activities,0.131
+2011,PM2.5,"Professional, scientific and technical activities",0.173
+2011,PM2.5,Public administration and defence; compulsory social security,0.871
+2011,PM2.5,Real estate activities,5.70E-02
+2011,PM2.5,Transport and storage,17.957
+2011,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.883
+2011,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,2.132
+2012,PM2.5,"Agriculture, forestry and fishing",6.692
+2012,PM2.5,"Arts, entertainment and recreation",0.136
+2012,PM2.5,Construction,4.446
+2012,PM2.5,Education,0.222
+2012,PM2.5,"Electricity, gas, steam and air conditioning supply",5.527
+2012,PM2.5,Financial and insurance activities,0.02
+2012,PM2.5,Human health and social work activities,0.45
+2012,PM2.5,Information and communication,0.114
+2012,PM2.5,Manufacturing,14.206
+2012,PM2.5,Mining and quarrying,3.403
+2012,PM2.5,Other service activities,0.121
+2012,PM2.5,"Professional, scientific and technical activities",0.16
+2012,PM2.5,Public administration and defence; compulsory social security,0.786
+2012,PM2.5,Real estate activities,5.50E-02
+2012,PM2.5,Transport and storage,17.738
+2012,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.856
+2012,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.971
+2013,PM2.5,"Agriculture, forestry and fishing",6.127
+2013,PM2.5,"Arts, entertainment and recreation",0.129
+2013,PM2.5,Construction,4.714
+2013,PM2.5,Education,0.252
+2013,PM2.5,"Electricity, gas, steam and air conditioning supply",4.926
+2013,PM2.5,Financial and insurance activities,1.80E-02
+2013,PM2.5,Human health and social work activities,0.435
+2013,PM2.5,Information and communication,0.101
+2013,PM2.5,Manufacturing,15.682
+2013,PM2.5,Mining and quarrying,3.271
+2013,PM2.5,Other service activities,0.114
+2013,PM2.5,"Professional, scientific and technical activities",0.142
+2013,PM2.5,Public administration and defence; compulsory social security,0.695
+2013,PM2.5,Real estate activities,0.05
+2013,PM2.5,Transport and storage,13.682
+2013,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.822
+2013,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.776
+2014,PM2.5,"Agriculture, forestry and fishing",6.132
+2014,PM2.5,"Arts, entertainment and recreation",0.118
+2014,PM2.5,Construction,4.165
+2014,PM2.5,Education,0.238
+2014,PM2.5,"Electricity, gas, steam and air conditioning supply",3.946
+2014,PM2.5,Financial and insurance activities,1.60E-02
+2014,PM2.5,Human health and social work activities,0.425
+2014,PM2.5,Information and communication,9.20E-02
+2014,PM2.5,Manufacturing,16.174
+2014,PM2.5,Mining and quarrying,3.324
+2014,PM2.5,Other service activities,0.107
+2014,PM2.5,"Professional, scientific and technical activities",0.133
+2014,PM2.5,Public administration and defence; compulsory social security,0.605
+2014,PM2.5,Real estate activities,4.60E-02
+2014,PM2.5,Transport and storage,15.564
+2014,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.817
+2014,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.648
+2015,PM2.5,"Agriculture, forestry and fishing",6.229
+2015,PM2.5,"Arts, entertainment and recreation",0.102
+2015,PM2.5,Construction,4.141
+2015,PM2.5,Education,0.204
+2015,PM2.5,"Electricity, gas, steam and air conditioning supply",3.204
+2015,PM2.5,Financial and insurance activities,1.30E-02
+2015,PM2.5,Human health and social work activities,0.233
+2015,PM2.5,Information and communication,8.10E-02
+2015,PM2.5,Manufacturing,14.898
+2015,PM2.5,Mining and quarrying,3.419
+2015,PM2.5,Other service activities,0.12
+2015,PM2.5,"Professional, scientific and technical activities",0.115
+2015,PM2.5,Public administration and defence; compulsory social security,0.467
+2015,PM2.5,Real estate activities,4.20E-02
+2015,PM2.5,Transport and storage,17.451
+2015,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.848
+2015,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.532
+2016,PM2.5,"Agriculture, forestry and fishing",6.024
+2016,PM2.5,"Arts, entertainment and recreation",0.109
+2016,PM2.5,Construction,4.563
+2016,PM2.5,Education,0.226
+2016,PM2.5,"Electricity, gas, steam and air conditioning supply",2.428
+2016,PM2.5,Financial and insurance activities,1.30E-02
+2016,PM2.5,Human health and social work activities,0.273
+2016,PM2.5,Information and communication,7.90E-02
+2016,PM2.5,Manufacturing,12.96
+2016,PM2.5,Mining and quarrying,3.387
+2016,PM2.5,Other service activities,0.12
+2016,PM2.5,"Professional, scientific and technical activities",0.115
+2016,PM2.5,Public administration and defence; compulsory social security,0.462
+2016,PM2.5,Real estate activities,4.10E-02
+2016,PM2.5,Transport and storage,19.014
+2016,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.861
+2016,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.452
+2017,PM2.5,"Agriculture, forestry and fishing",5.927
+2017,PM2.5,"Arts, entertainment and recreation",0.124
+2017,PM2.5,Construction,4.975
+2017,PM2.5,Education,0.242
+2017,PM2.5,"Electricity, gas, steam and air conditioning supply",2.105
+2017,PM2.5,Financial and insurance activities,1.30E-02
+2017,PM2.5,Human health and social work activities,0.22
+2017,PM2.5,Information and communication,7.70E-02
+2017,PM2.5,Manufacturing,13.058
+2017,PM2.5,Mining and quarrying,3.49
+2017,PM2.5,Other service activities,0.118
+2017,PM2.5,"Professional, scientific and technical activities",0.109
+2017,PM2.5,Public administration and defence; compulsory social security,0.45
+2017,PM2.5,Real estate activities,3.80E-02
+2017,PM2.5,Transport and storage,11.977
+2017,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.889
+2017,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.337
+2018,PM2.5,"Agriculture, forestry and fishing",5.836
+2018,PM2.5,"Arts, entertainment and recreation",0.13
+2018,PM2.5,Construction,4.448
+2018,PM2.5,Education,0.249
+2018,PM2.5,"Electricity, gas, steam and air conditioning supply",1.851
+2018,PM2.5,Financial and insurance activities,1.30E-02
+2018,PM2.5,Human health and social work activities,0.233
+2018,PM2.5,Information and communication,7.30E-02
+2018,PM2.5,Manufacturing,13.325
+2018,PM2.5,Mining and quarrying,3.603
+2018,PM2.5,Other service activities,0.122
+2018,PM2.5,"Professional, scientific and technical activities",0.104
+2018,PM2.5,Public administration and defence; compulsory social security,0.452
+2018,PM2.5,Real estate activities,3.70E-02
+2018,PM2.5,Transport and storage,13.798
+2018,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.907
+2018,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.217
+2019,PM2.5,"Agriculture, forestry and fishing",5.501
+2019,PM2.5,"Arts, entertainment and recreation",0.122
+2019,PM2.5,Construction,4.347
+2019,PM2.5,Education,0.217
+2019,PM2.5,"Electricity, gas, steam and air conditioning supply",1.49
+2019,PM2.5,Financial and insurance activities,1.20E-02
+2019,PM2.5,Human health and social work activities,0.216
+2019,PM2.5,Information and communication,6.90E-02
+2019,PM2.5,Manufacturing,12.073
+2019,PM2.5,Mining and quarrying,3.624
+2019,PM2.5,Other service activities,0.113
+2019,PM2.5,"Professional, scientific and technical activities",9.90E-02
+2019,PM2.5,Public administration and defence; compulsory social security,0.427
+2019,PM2.5,Real estate activities,3.50E-02
+2019,PM2.5,Transport and storage,15.057
+2019,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.863
+2019,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,1.147
+2020,PM2.5,"Agriculture, forestry and fishing",5.23
+2020,PM2.5,"Arts, entertainment and recreation",0.112
+2020,PM2.5,Construction,3.569
+2020,PM2.5,Education,0.199
+2020,PM2.5,"Electricity, gas, steam and air conditioning supply",1.407
+2020,PM2.5,Financial and insurance activities,0.01
+2020,PM2.5,Human health and social work activities,0.221
+2020,PM2.5,Information and communication,5.30E-02
+2020,PM2.5,Manufacturing,11.846
+2020,PM2.5,Mining and quarrying,3.191
+2020,PM2.5,Other service activities,0.106
+2020,PM2.5,"Professional, scientific and technical activities",7.40E-02
+2020,PM2.5,Public administration and defence; compulsory social security,0.334
+2020,PM2.5,Real estate activities,2.80E-02
+2020,PM2.5,Transport and storage,10.569
+2020,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.891
+2020,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.908
+2021,PM2.5,"Agriculture, forestry and fishing",5.243
+2021,PM2.5,"Arts, entertainment and recreation",0.112
+2021,PM2.5,Construction,3.949
+2021,PM2.5,Education,0.188
+2021,PM2.5,"Electricity, gas, steam and air conditioning supply",1.255
+2021,PM2.5,Financial and insurance activities,0.01
+2021,PM2.5,Human health and social work activities,0.22
+2021,PM2.5,Information and communication,5.60E-02
+2021,PM2.5,Manufacturing,11.911
+2021,PM2.5,Mining and quarrying,3.446
+2021,PM2.5,Other service activities,0.103
+2021,PM2.5,"Professional, scientific and technical activities",7.80E-02
+2021,PM2.5,Public administration and defence; compulsory social security,0.402
+2021,PM2.5,Real estate activities,2.90E-02
+2021,PM2.5,Transport and storage,7.975
+2021,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.91
+2021,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.983
+2022,PM2.5,"Agriculture, forestry and fishing",5.039
+2022,PM2.5,"Arts, entertainment and recreation",0.111
+2022,PM2.5,Construction,4.004
+2022,PM2.5,Education,0.179
+2022,PM2.5,"Electricity, gas, steam and air conditioning supply",1.135
+2022,PM2.5,Financial and insurance activities,0.01
+2022,PM2.5,Human health and social work activities,0.207
+2022,PM2.5,Information and communication,5.80E-02
+2022,PM2.5,Manufacturing,11.59
+2022,PM2.5,Mining and quarrying,2.96
+2022,PM2.5,Other service activities,0.102
+2022,PM2.5,"Professional, scientific and technical activities",0.08
+2022,PM2.5,Public administration and defence; compulsory social security,0.373
+2022,PM2.5,Real estate activities,0.03
+2022,PM2.5,Transport and storage,11.372
+2022,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.919
+2022,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.995
+2023,PM2.5,"Agriculture, forestry and fishing",4.966
+2023,PM2.5,"Arts, entertainment and recreation",0.116
+2023,PM2.5,Construction,4.119
+2023,PM2.5,Education,0.178
+2023,PM2.5,"Electricity, gas, steam and air conditioning supply",1.071
+2023,PM2.5,Financial and insurance activities,0.01
+2023,PM2.5,Human health and social work activities,0.205
+2023,PM2.5,Information and communication,5.80E-02
+2023,PM2.5,Manufacturing,11.645
+2023,PM2.5,Mining and quarrying,2.819
+2023,PM2.5,Other service activities,0.104
+2023,PM2.5,"Professional, scientific and technical activities",0.08
+2023,PM2.5,Public administration and defence; compulsory social security,0.384
+2023,PM2.5,Real estate activities,0.03
+2023,PM2.5,Transport and storage,10.577
+2023,PM2.5,"Water supply; sewerage, waste management and remediation activities",0.936
+2023,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,0.995
+NA,PM2.5,"Agriculture, forestry and fishing",NA
+NA,PM2.5,"Arts, entertainment and recreation",NA
+NA,PM2.5,Construction,NA
+NA,PM2.5,Education,NA
+NA,PM2.5,"Electricity, gas, steam and air conditioning supply",NA
+NA,PM2.5,Financial and insurance activities,NA
+NA,PM2.5,Human health and social work activities,NA
+NA,PM2.5,Information and communication,NA
+NA,PM2.5,Manufacturing,NA
+NA,PM2.5,Mining and quarrying,NA
+NA,PM2.5,Other service activities,NA
+NA,PM2.5,"Professional, scientific and technical activities",NA
+NA,PM2.5,Public administration and defence; compulsory social security,NA
+NA,PM2.5,Real estate activities,NA
+NA,PM2.5,Transport and storage,NA
+NA,PM2.5,"Water supply; sewerage, waste management and remediation activities",NA
+NA,PM2.5,Wholesale and retail trade; repair of motor vehicles and motorcycles,NA
